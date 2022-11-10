@@ -1,5 +1,5 @@
 # Journal d'Alexandre
-![portrait du participant ](../web/medias/participants/C.png)
+![portrait du participant ](../web/medias/participants/alexandre_portrait.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
