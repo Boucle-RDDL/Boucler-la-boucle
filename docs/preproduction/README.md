@@ -35,7 +35,7 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Ce projet a pour but de rendre des sentier dynamique par l'intermédiaire de lumiaires LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de panneaux expliquatifs sur les oeuvres exposées à l'embouchure des sentiers. 
 
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
