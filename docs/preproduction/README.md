@@ -126,11 +126,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
+* [Arduino](https://www.arduino.cc/) 
 * [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
