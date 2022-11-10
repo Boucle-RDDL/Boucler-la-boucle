@@ -1,5 +1,5 @@
 # Journal de "Participant 1"
-![portrait du participant ](../web/medias/participants/A.png)
+![portrait du participant ](../web/medias/participants/sebastien_portrait.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
