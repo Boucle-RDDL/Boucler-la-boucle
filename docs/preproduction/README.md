@@ -127,7 +127,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [Arduino](https://www.arduino.cc/) 
-* [Max 8](https://cycling74.com/products/max)   
+* [Max 8](https://cycling74.com/products/max) 
+* [QLC+](https://www.qlcplus.org/)
+* [TouchDesigner](https://derivative.ca/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
