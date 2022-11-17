@@ -35,12 +35,10 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Ce projet a pour but de rendre des sentier dynamique par l'intermédiaire de lumiaires LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de panneaux expliquatifs sur les oeuvres exposées à l'embouchure des sentiers. 
+Ce projet a pour but de rendre des sentier dynamique par l'intermédiaire de lumiaires LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de codes QR menant à un site web comprenant une courte vidéo sur un des projets.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Olivier et Olivia souhaitent découvrir les projets des finissants en multimédia. 
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
@@ -58,7 +56,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 - 15 icônes de navigation (pour les utilisateur-trices)
 - 8 montages d'image
 - 3 paysages sonores
-- 5 vidéos d'animation 2D
+- 3 vidéos d'animation 2D
 - 3 textes poétiques
 - 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
 - ...
@@ -70,7 +68,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
 
@@ -93,9 +91,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 6 haut-parleurs actifs de 4"
+    * 6 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 6 sorties 
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
@@ -109,7 +107,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface DMX USB
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 6 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
     * 2 multiprise
 
@@ -151,7 +149,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
+|  La température hivernale                        | Isoler correctement le matériel                       | Nous pourrions toujours utiliser du matériel résistant à l'eau et au température variante    |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
