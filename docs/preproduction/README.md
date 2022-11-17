@@ -149,7 +149,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|  La température hivernale                        | Isoler correctement le matériel                       | Nous pourrions toujours utiliser du matériel résistant à l'eau et au température variante    |
+|  La température hivernale                        | Isoler correctement le matériel                       | Nous pourrions toujours utiliser du matériel résistant à l'eau et aux températures variante    |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
