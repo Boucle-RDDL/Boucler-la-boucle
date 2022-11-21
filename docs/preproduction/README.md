@@ -35,7 +35,6 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 ![Exemple de cartographie 3](medias/Vue%20satellite.PNG)
 
-
 ## Intention de départ
 Ce projet a pour but de rendre des sentier dynamique par l'intermédiaire de lumiaires LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de codes QR menant à un site web comprenant une courte vidéo sur un des projets.
 
@@ -58,10 +57,6 @@ Olivier et Olivia souhaitent découvrir les projets des finissants en multimédi
 - 5 pages web pour chaque projets
 - 5 animations pour les sites
 - 5 paysages sonores
-- 3 textes poétiques
-- 10 capteurs de mouvement
-- 3 Raspberry Pi
-- Strip Del
 - ...
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
@@ -88,7 +83,27 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Divan Louis XIV
     * Couleur rouge
     * 12' x 4' x 3'
-* Cyclorama
+
+
+* Pages web
+    * Une page par projet
+
+* Animation pour chaque page web
+
+* Paysages sonores
+
+* Panneaux avec code QR
+
+* Capteurs de mouvements
+
+
+
+- 5 paysages sonores
+- 3 textes poétiques
+- 10 capteurs de mouvement
+- 3 Raspberry Pi
+- Strip Del
+- ...
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -98,28 +113,19 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 6 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 6 sorties 
 
-* Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
-
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * 6 Strips lumière LED (modèle)
+    
 
 * Électricité
-    * 6 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * À voir
 
-* Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+* Arduino
+    * 6 controlleurs arduino
+    * fils pour plaquette électronique
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 6 raspberry pi 
     
 * Autre
     * Tout autre élément pertinent
@@ -128,9 +134,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [Arduino](https://www.arduino.cc/) 
-* [Max 8](https://cycling74.com/products/max) 
-* [QLC+](https://www.qlcplus.org/)
-* [TouchDesigner](https://derivative.ca/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
