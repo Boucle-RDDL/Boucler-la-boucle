@@ -33,6 +33,8 @@
 ![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
 ![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![Exemple de cartographie 3](medias/Vue%20satellite.PNG)
+
 
 ## Intention de départ
 Ce projet a pour but de rendre des sentier dynamique par l'intermédiaire de lumiaires LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de codes QR menant à un site web comprenant une courte vidéo sur un des projets.
@@ -53,12 +55,13 @@ Olivier et Olivia souhaitent découvrir les projets des finissants en multimédi
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 3 vidéos d'animation 2D
+- 5 pages web pour chaque projets
+- 5 animations pour les sites
+- 5 paysages sonores
 - 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
+- 10 capteurs de mouvement
+- 3 Raspberry Pi
+- Strip Del
 - ...
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
