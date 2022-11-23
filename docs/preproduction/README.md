@@ -82,11 +82,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-
-
 * Pages web
     * Une page par projet
 
@@ -97,15 +92,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Panneaux avec code QR
 
 * Capteurs de mouvements
-
-
-
-- 5 paysages sonores
-- 3 textes poétiques
-- 10 capteurs de mouvement
-- 3 Raspberry Pi
-- Strip Del
-- ...
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
