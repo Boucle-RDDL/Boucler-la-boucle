@@ -43,7 +43,6 @@ Olivier et Olivia souhaitent découvrir les projets des finissants en multimédi
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
-<img src = "">
 
 [Exemple d'animation de lumière](https://www.youtube.com/watch?v=578hrnxruuI)
 
