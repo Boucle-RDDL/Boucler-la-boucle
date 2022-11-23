@@ -87,11 +87,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Animation pour chaque page web
 
-* Paysages sonores
+* 6 haut-parleurs
 
-* Panneaux avec code QR
+* 5 panneaux avec code QR
 
-* Capteurs de mouvements
+* 6 capteurs de mouvements
+
+* Bande DEL
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
