@@ -56,10 +56,10 @@ Des piétons circulant dans des sentiers illuminés pour se déplacer entre des 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 5 pages web pour chaque projets
+- 5 pages web pour chaque projet
 - 5 animations pour les sites
-- 5 paysages sonores
-- ...
+- 3 paysages sonores
+- 3 univers colorés illuminés
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
