@@ -57,7 +57,7 @@ Des piétons circulant dans des sentiers illuminés pour se déplacer entre des 
 ## Inventaire du contenu multimédia
 
 - 5 pages web pour chaque projet
-- 5 animations pour les sites
+- 5 vidéos d'animation pour les sites
 - 3 paysages sonores
 - 3 univers colorés illuminés
 
@@ -85,9 +85,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Pages web
     * Une page par projet
 
-* Animation pour chaque page web
+* Vidéos d'explication pour chaque page web
 
-* 6 haut-parleurs
+* 6 Ambiances sonores
 
 * 5 panneaux avec code QR
 
