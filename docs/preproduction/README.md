@@ -39,7 +39,7 @@
 Ce projet a pour but de rendre des sentier dynamique par l'intermédiaire de lumiaires LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de codes QR menant à un site web comprenant une courte vidéo sur un des projets.
 
 ## Synopsis
-Des piétons circulant dans des sentiers illuminés pour se déplacer entre des insatallations multimédias interractives, se rendent compte que ce dit sentier réagit à leurs déplacements. Par la suite, les piétons remarquent la présence de codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo en lien avec les installations.
+Des piétons circulant dans des sentiers illuminés pour se déplacer entre des insatallations multimédias interractives, se rendent compte que ce dit sentier réagit à leurs déplacements. Par la suite, les piétons remarquent la présence de codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo pour explorer les paysages des attractions en profondeur.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
