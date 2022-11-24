@@ -127,7 +127,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
-* TTP, location de matériel
+* TTP
+    - Xavier Martel-Lachance
+    - William Racine
+* Superviseurs
+    - Daryl Hubert
+    - Guillaume Arseneault
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
