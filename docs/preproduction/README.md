@@ -106,7 +106,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Lumière
     * 6 Strips lumière DEL (modèle)
     
-
 * Électricité
     * Alimentation électrique
 
