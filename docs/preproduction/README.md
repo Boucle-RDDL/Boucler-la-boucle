@@ -93,7 +93,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * 6 capteurs de mouvements
 
-* Bande DEL
+* 6 bandes DEL
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -104,15 +104,15 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface audio USB disposant 6 sorties 
 
 * Lumière
-    * 6 Strips lumière LED (modèle)
+    * 6 Strips lumière DEL (modèle)
     
 
 * Électricité
-    * À voir
+    * Alimentation électrique
 
 * Arduino
-    * 6 controlleurs arduino
-    * fils pour plaquette électronique
+    * 6 contrôlleurs arduino
+    * Fils pour plaquette électronique
 
 * Ordinateur
     * 6 raspberry pi 
@@ -134,11 +134,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+    * Des passages illuminés pour circuler entre les installations
+    * Des code QR à l'entré de chaque installation
 
-* Petit studio
-    * Enregsitrement audio
+* L'aménagement paysagé en diagonal de l'entré de la salle André-Mathieu
+    * L'illumination des sentiers
+    * La disposition de panneaux avec code QR dans les sentiers
+
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
