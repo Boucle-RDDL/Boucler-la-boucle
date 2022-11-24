@@ -147,7 +147,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | La température hivernale                         | Isoler correctement le matériel                       | Nous pourrions toujours utiliser du matériel résistant à l'eau et aux températures variante  |
-| La longueur des bande DEL                        | Avoir plus de capteur de mouvements                   | Nous pourrions aussi mettre des relais                                                       |
+| La longueur des bande DEL poutait poser problème | Avoir plus de capteur de mouvements                   | Nous pourrions aussi mettre des relais                                                       |
 | Les sites web qui ne marchent pas                | S'assurer de faire des examens diagnostiques          | Nous pourrions aussi faire un github pour s'assurer que chaque membre puissent contribuer    |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
