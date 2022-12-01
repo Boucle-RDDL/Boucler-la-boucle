@@ -118,7 +118,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Fils pour plaquette électronique
 
 * Ordinateur
-    * 6 raspberry pi 
+    * 1 ordinateur pour programmer
     
 * Autre
     * Câbles d'aéronef galvanisé
