@@ -71,6 +71,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
+![Exemple de cartographie 3](medias/Vue%20satellite.PNG)
 
 ![exemple de plantation](medias/o3_plantation.png)
 
