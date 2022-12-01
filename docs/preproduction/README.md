@@ -97,7 +97,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * 6 bandes DEL
 
-* Plusieurs Y
+* Plusieurs ancrages
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
