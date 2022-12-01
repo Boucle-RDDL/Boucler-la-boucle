@@ -97,6 +97,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * 6 bandes DEL
 
+* Plusieurs Y
+
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
@@ -119,6 +121,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 6 raspberry pi 
     
 * Autre
+    * Câbles d'aéronef galvanisé
+    * Tiges pour câble d'ancrage
+    * Pieux d'ancrage
     * Tout autre élément pertinent
 
 ## Logiciels requis
@@ -141,7 +146,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Grand studio
     * Des passages illuminés pour circuler entre les installations
-    * Des code QR à l'entré de chaque installation
+    * Des codes QR à l'entré de chaque installation
 
 * L'aménagement paysagé en diagonal de l'entré de la salle André-Mathieu
     * L'illumination des sentiers
