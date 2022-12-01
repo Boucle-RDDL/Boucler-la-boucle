@@ -72,6 +72,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
+![Exemple de cartographie 3](medias/Vue%20satellite.PNG)
 
 ![exemple de plantation](medias/o3_plantation.png)
 
@@ -235,7 +236,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- **30h sur 5 jour, par semaine**: Instalation du projet (peut varier selon l'horaire des élèves).
 
 Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- ** 2h par semaine** : Rencontre de suivi de projet sur Discord/Microsoft Teams.
