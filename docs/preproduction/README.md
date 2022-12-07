@@ -85,15 +85,15 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Vidéos d'explication pour chaque page web
 
-* 6 Ambiances sonores
+* 3 Ambiances sonores
 
 * 5 panneaux avec code QR
 
 * 6 capteurs de mouvements
 
-* 6 bandes DEL
+* 12 bandes DEL
 
-* Plusieurs ancrages
+* 12 tiges pour câble d'ancrage
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -104,22 +104,23 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface audio USB disposant 6 sorties 
 
 * Lumière
-    * 6 Strips lumière DEL (modèle)
+    * 3 bandes de lumière DEL 20m
     
 * Électricité
     * Alimentation électrique
 
 * Arduino
-    * 6 contrôlleurs arduino
-    * Fils pour plaquette électronique
+    * 6 contrôlleurs arduino nano
+    * 2 kits de fils pour plaquette électronique
+    * 6 plaquettes électronique
 
 * Ordinateur
     * 1 ordinateur pour programmer
     
 * Autre
-    * Câbles d'aéronef galvanisé
-    * Tiges pour câble d'ancrage
-    * Pieux d'ancrage
+    * 6 câbles d'aéronef galvanisé
+    * 12 boucles de serrage Strata
+    * 12 tiges pour câble d'ancrage 36 po de long x 5/8 po
     * Tout autre élément pertinent
 
 ## Logiciels requis
@@ -184,49 +185,43 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Sabrina Laforest**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+- Création des animations en lien avec les installations;
+- S'occuper de la disposition des panneau de code QR dans l'environnement.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant D**
+**Sébastien Reilly**
 - Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
+- Programmation des arduinos;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant C**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+**Maxime Des Lauriers**
+- Création des paysages sonores sonores;
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Étudiant B**
+**Alexandre Daniel**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+**Dominic Yale**
+- Installation de l'équipement dans l'espace physique;
+- Création des animations en lien avec les installations.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
