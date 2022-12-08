@@ -116,7 +116,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 6 câbles d'aéronef galvanisé
     * 12 boucles de serrage Strata
     * 12 tiges pour câble d'ancrage 36 po de long x 5/8 po
-    * Tout autre élément pertinent
     * 1 ordinateur pour programmer
 
 ## Logiciels requis
