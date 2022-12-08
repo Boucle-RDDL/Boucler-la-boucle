@@ -29,7 +29,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
-![Exemple de cartographie 3](medias/Vue%20satellite.PNG)
+![Exemple de cartographie 3](medias/vue_haut.png)
 
 ## Intention de départ
 Ce projet a pour but de rendre des sentiers dynamiques par l'intermédiaire de lumières LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de codes QR menant à un site web comprenant une courte vidéo sur un des projets. 
@@ -68,9 +68,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
-![Exemple de cartographie 3](medias/Vue%20satellite.PNG)
+![Exemple de cartographie 3]
 
-![exemple de plantation](medias/o3_plantation.png)
+![exemple de plantation](medias/vue_haut.png)
 
 ### Schéma de branchement 
 
