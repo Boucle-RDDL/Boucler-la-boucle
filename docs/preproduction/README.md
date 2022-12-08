@@ -68,7 +68,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
-![Exemple de cartographie 3]
 
 ![exemple de plantation](medias/vue_haut.png)
 
@@ -101,7 +100,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Audio
     * 6 haut-parleurs actifs de 4"
     * 6 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 6 sorties 
 
 * Lumière
     * 3 bandes de lumière DEL 20m
@@ -114,14 +112,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 2 kits de fils pour plaquette électronique
     * 6 plaquettes électronique
 
-* Ordinateur
-    * 1 ordinateur pour programmer
-    
 * Autre
     * 6 câbles d'aéronef galvanisé
     * 12 boucles de serrage Strata
     * 12 tiges pour câble d'ancrage 36 po de long x 5/8 po
     * Tout autre élément pertinent
+    * 1 ordinateur pour programmer
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
