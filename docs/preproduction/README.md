@@ -163,12 +163,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/Boucle-RDDL/Boucler-la-boucle/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Première itération : Mardi 24 janvier
+- Prototype finale :  Mardi 21 février
+- Présentation des projets devant public : jeudi 23 mars (soir)
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
@@ -181,15 +181,16 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Sabrina Laforest**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
+- Comité Communiquation (reponsable de la comuniquation entre les équipes);
 - Création des animations en lien avec les installations;
-- S'occuper de la disposition des panneau de code QR dans l'environnement.
+- S'occuper de la disposition des panneaux de code QR dans l'environnement.
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Sébastien Reilly**
+- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Comité Technique et coordination technique (suivi du devis technique);
 - Programmation des arduinos;
 - Installation de l'équipement dans l'espace physique.
