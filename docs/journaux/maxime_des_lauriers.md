@@ -1,4 +1,4 @@
-# Journal de "Maxime Des Lauriers"
+# Journal de Maxime Des Lauriers
 ![portrait du participant ](../web/medias/participants/D.png)
 
 * [Semaine 1](#semaine-1)
