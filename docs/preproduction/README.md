@@ -186,7 +186,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 - S'occuper de la disposition des panneaux de code QR dans l'environnement.
 
 Liste des tâches dans Git Hub:  
-https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/SabrinaLaforest 
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/SabrinaLaforest<br>
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3ASabrinaLaforest
 
 **Sébastien Reilly**
@@ -196,7 +196,7 @@ https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3ASa
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/sebreilly
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/sebreilly<br>
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3Asebreilly
 
 **Maxime Des Lauriers**
@@ -204,7 +204,7 @@ https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3Ase
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/MDLauriers36
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/MDLauriers36<br>
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AMDLauriers36
 
 **Alexandre Daniel**
@@ -212,7 +212,7 @@ https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AMD
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/AlexDan26
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/AlexDan26<br>
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AAlexDan26
 
 
