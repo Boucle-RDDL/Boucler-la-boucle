@@ -186,8 +186,8 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 - S'occuper de la disposition des panneaux de code QR dans l'environnement.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/SabrinaLaforest 
+https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3ASabrinaLaforest
 
 **Sébastien Reilly**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
@@ -196,35 +196,28 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/sebreilly
+https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3Asebreilly
 
 **Maxime Des Lauriers**
 - Création des paysages sonores sonores;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/MDLauriers36
+https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AMDLauriers36
 
 **Alexandre Daniel**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/AlexDan26
+https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AAlexDan26
 
-**Dominic Yale**
-- Installation de l'équipement dans l'espace physique;
-- Création des animations en lien avec les installations.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
