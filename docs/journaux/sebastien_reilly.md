@@ -1,4 +1,4 @@
-# Journal de "Sébastien Reilly"
+# Journal de Sébastien Reilly
 ![portrait du participant ](../web/medias/participants/sebastien_portrait.png)
 
 * [Semaine 1](#semaine-1)

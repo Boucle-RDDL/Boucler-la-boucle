@@ -1,4 +1,4 @@
-# Journal de "Sabrina Laforest"
+# Journal de Sabrina Laforest
 ![portrait du participant ](../web/medias/participants/sabrina_portrait.png)
 
 * [Semaine 1](#semaine-1)
