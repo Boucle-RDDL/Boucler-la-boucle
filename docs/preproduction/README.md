@@ -172,10 +172,10 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/orgs/Boucle-RDDL/projects/4
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
@@ -228,7 +228,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **30h sur 5 jour, par semaine**: Instalation du projet (peut varier selon l'horaire des élèves).
+- **40h sur 5 jour, par semaine**: Instalation du projet (peut varier selon l'horaire des élèves).
 
 Autre: 
 - ** 2h par semaine** : Rencontre de suivi de projet sur Discord/Microsoft Teams.
