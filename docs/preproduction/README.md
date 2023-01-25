@@ -151,7 +151,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | La température hivernale                         | Isoler correctement le matériel                       | Nous pourrions toujours utiliser du matériel résistant à l'eau et aux températures variante  |
-| La longueur des bande DEL poutait poser problème | Avoir plus de capteur de mouvements                   | Nous pourrions aussi mettre des relais                                                       |
+| La longueur des bande DEL pourait poser problème | Avoir plus de capteur de mouvements                   | Nous pourrions aussi mettre des relais                                                       |
 | Les sites web qui ne marchent pas                | S'assurer de faire des examens diagnostiques          | Nous pourrions aussi faire un github pour s'assurer que chaque membre puissent contribuer    |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
@@ -178,21 +178,21 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
+> Il est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet se prendront en groupe lors des rencontres d'équipe. Cependant, les décisions entre les rencontres de groupe appartiendront à ces personnes.
 
 **Sabrina Laforest**
-- Comité Communiquation (reponsable de la comuniquation entre les équipes);
-- Création des animations en lien avec les installations;
-- S'occuper de la disposition des panneaux de code QR dans l'environnement.
+- Responsable des communications (reponsable de la comuniquation entre les équipes);
+- Animatrice 3D;
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/SabrinaLaforest<br>
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3ASabrinaLaforest
 
 **Sébastien Reilly**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Comité Technique et coordination technique (suivi du devis technique);
-- Programmation des arduinos;
+- Coordinateur générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
+- Programmeur;
+- Opérateur web;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
@@ -201,6 +201,8 @@ https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3Ase
 
 **Maxime Des Lauriers**
 - Création des paysages sonores sonores;
+- Coordinateur technique (suivi du devis technique);
+- Opérateur web;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
@@ -208,7 +210,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/MDLauriers36<br
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AMDLauriers36
 
 **Alexandre Daniel**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
+- Coordinatieur artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
@@ -221,7 +223,7 @@ https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **40h sur 5 jour, par semaine**: Instalation du projet (peut varier selon l'horaire des élèves).
+- **40h sur 5 jour, par semaine**: Instalation du projet (peut varier selon l'horaire de l'équipe).
 
 Autre: 
-- ** 2h par semaine** : Rencontre de suivi de projet sur Discord/Microsoft Teams.
+- ** 2h par semaine** : Rencontre de suivi de projet sur Microsoft Teams/Discord.
