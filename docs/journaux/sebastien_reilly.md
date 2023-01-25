@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- J'ai attribué les différents rôles que chauque personne allait jouer dans l'équipe.
+- J'ai attribué les différents rôles que chaque personne allait jouer dans l'équipe.
 - J'ai retravaillé une partie du document de la préproduction, spécialement les liens vers les tâches et l'échéancier.
 - J'ai créé plusieurs "milestone" pour nous permetttre de suivre un échéancier. 
 - J'ai commencé à assigner des tâche dans le tableau de tâche.
