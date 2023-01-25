@@ -49,6 +49,8 @@ Des piétons circulant dans des sentiers illuminés pour se déplacer entre des 
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence.</br>
+Le sujet peut aussi scanner des codes QR avant d'entrer dans les différentes installations.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
