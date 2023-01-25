@@ -32,7 +32,7 @@
 ![Exemple de cartographie 3](medias/vue_haut.png)
 
 ## Intention de départ
-Ce projet a pour but de rendre des sentiers dynamiques par l'intermédiaire de lumières LED qui réagissent aux piétons qui empruntent les différents sentiers. Les sentiers disposeront également de codes QR menant à un site web comprenant une courte vidéo sur un des projets. 
+Ce projet a pour but d'augmenter l'immersion dans les attractions lorsque les visiteurs vont arriver dans le passage. L'ambiance est pensée pour donner l'impression de transition d'un univers à l'autre lors du déplacement vers une installation.
 
 ## Synopsis
 Des piétons circulant dans des sentiers illuminés pour se déplacer entre des installations multimédias interactives se rendent compte que cedit sentier réagit à leurs déplacements. Par la suite, les piétons remarquent la présence de codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo pour explorer les paysages des attractions en profondeur.   
@@ -50,6 +50,7 @@ Des piétons circulant dans des sentiers illuminés pour se déplacer entre des 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)</br>
 Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence.</br>
+Ces dernières sont "suivrent" le passant et vont aller sur le rythme de l'ambiance.</br>
 Le sujet peut aussi scanner des codes QR avant d'entrer dans les différentes installations.
 
 # Contenu multimédia à intégrer
