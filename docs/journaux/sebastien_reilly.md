@@ -15,13 +15,10 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- J'ai attribué les différents rôles que chauque personne allait jouer dans l'équipe.
+- J'ai retravaillé une partie du document de la préproduction, spécialement les liens vers les tâches et l'échéancier.
+- J'ai créé plusieurs "milestone" pour nous permetttre de suivre un échéancier. 
+- J'ai commencé à assigner des tâche dans le tableau de tâche.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
