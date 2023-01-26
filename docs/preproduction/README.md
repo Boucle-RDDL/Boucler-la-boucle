@@ -35,7 +35,7 @@
 Les sentiers ont pour but de guider et d'augmenter la correlation entre les différentes installations.
 
 ## Synopsis
-Des piétons circulant dans des sentiers illuminés pour se déplacer entre des installations multimédias interactives se rendent compte que cedit sentier réagit à leurs déplacements. Par la suite, les piétons remarquent la présence de codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo pour explorer les différents univers en profondeur.   
+Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les différentes installations extérieures. Lors de leur déplacements, ceux-ci se rendent comptes que les sentiers réagissent lors de leurs passages. Parsemés dans les chemins lumineux se trouve des codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo qui décrivent les histoires et particularités des différents univers plus en profondeur.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
