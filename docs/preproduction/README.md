@@ -63,10 +63,10 @@ Le sujet peut aussi scanner des codes QR afin d'avoir des informations sur les d
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
-    - [Light Walk Project](https://www.youtube.com/watch?v=jSrhLRTffrM&ab_channel=UrukiaMagazine)
-    - [Exemple de projet cr34te 1](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/EY4aOW37TLVNh72izw-SoCoB6E5DdkiLFSTrh0d6RxYDTQ?e=hg7QoH)
-    - [Exemple de projet cr34te 2](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/Eanpu6OrqrBLk1bsARDwz_gB6l0o3f3K2gj0bxMGrFXFZQ?e=O4kke9)
+Examples:
+    - [Light Walk Project](https://www.youtube.com/watch?v=jSrhLRTffrM&ab_channel=UrukiaMagazine)</br>
+    - [Exemple de projet cr34te 1](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/EY4aOW37TLVNh72izw-SoCoB6E5DdkiLFSTrh0d6RxYDTQ?e=hg7QoH)</br>
+    - [Exemple de projet cr34te 2](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/Eanpu6OrqrBLk1bsARDwz_gB6l0o3f3K2gj0bxMGrFXFZQ?e=O4kke9)</br>
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
