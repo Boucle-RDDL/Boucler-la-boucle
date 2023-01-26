@@ -87,39 +87,34 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Vidéos d'explication pour chaque page web
 
-* 3 Ambiances sonores
+* 2 ambiances sonores
 
 * 5 panneaux avec code QR
 
-* 6 capteurs de mouvements
-
-* 12 bandes DEL
-
-* 12 tiges pour câble d'ancrage
+* 4 capteurs de mouvements
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 6 haut-parleurs actifs de 4"
-    * 6 fils XLR 3 conducteurs de 15' (M->F)
+    * 4 haut-parleurs passifs de 4"
+    * 2 amplis ip65
 
 * Lumière
-    * 3 bandes de lumière DEL 20m
+    * (Nombre à déterminer)300 DMX Dot 5w
+    * 12 boules lumineuses 36" ip65
+    * 3 "spot style american DJ" 
     
 * Électricité
     * Alimentation électrique
 
 * Arduino
-    * 6 contrôlleurs arduino nano
+    * 4 contrôlleurs arduino (nano)
     * 2 kits de fils pour plaquette électronique
-    * 6 plaquettes électronique
+    * 4 plaquettes électronique
 
 * Autre
-    * 6 câbles d'aéronef galvanisé
-    * 12 boucles de serrage Strata
-    * 12 tiges pour câble d'ancrage 36 po de long x 5/8 po
-    * 1 ordinateur pour programmer
+    * 2 raspberry pi
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -127,20 +122,19 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Arduino](https://www.arduino.cc/) 
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
+> Formaté en liste
 
 * TTP
-    - Xavier Martel-Lachance
     - William Racine
 * Superviseurs
     - Daryl Hubert
     - Guillaume Arseneault
+    - Lora Boisvert
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Des passages illuminés pour circuler entre les installations
     * Des codes QR à l'entré de chaque installation
 
 * L'aménagement paysagé en diagonal de l'entré de la salle André-Mathieu
