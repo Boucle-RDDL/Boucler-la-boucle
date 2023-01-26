@@ -122,6 +122,8 @@ Examples:
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [Arduino](https://www.arduino.cc/) 
+* [QLC+](https://www.qlcplus.org/)
+* [Reaper](https://www.reaper.fm/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
