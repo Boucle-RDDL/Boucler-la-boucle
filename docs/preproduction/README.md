@@ -71,7 +71,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/vue_haut.png)
+![exemple de plantation](medias/google%20earth.png)
 
 ### Schéma de branchement
 
