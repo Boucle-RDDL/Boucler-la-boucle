@@ -57,8 +57,8 @@ Le sujet peut aussi scanner des codes QR afin d'avoir des informations sur les d
 
 - 5 pages web pour chaque projet
 - 5 vidéos d'animation pour les sites
-- 3 paysages sonores
-- 3 univers colorés illuminés
+- 2 paysages sonores
+- 2 univers colorés illuminés
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
@@ -89,39 +89,34 @@ Examples:
 
 * Vidéos d'explication pour chaque page web
 
-* 3 Ambiances sonores
+* 2 Ambiances sonores
 
 * 5 panneaux avec code QR
 
-* 6 capteurs de mouvements
-
-* 12 bandes DEL
-
-* 12 tiges pour câble d'ancrage
+* 4 capteurs de mouvements
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 6 haut-parleurs actifs de 4"
-    * 6 fils XLR 3 conducteurs de 15' (M->F)
+    * 4 haut-parleurs passifs de 4"
+    * 2 amplis ip65
 
 * Lumière
-    * 3 bandes de lumière DEL 20m
+    * (Nombre à déterminer)300 DMX Dot 5w ip65
+    * 15 Boules lumineuses ip65
     
 * Électricité
     * Alimentation électrique
 
 * Arduino
-    * 6 contrôlleurs arduino nano
+    * 4 micro-contrôlleurs arduino (nano)
     * 2 kits de fils pour plaquette électronique
-    * 6 plaquettes électronique
+    * 4 plaquettes électronique
+    * 4 capteurs de mouvements
 
 * Autre
-    * 6 câbles d'aéronef galvanisé
-    * 12 boucles de serrage Strata
-    * 12 tiges pour câble d'ancrage 36 po de long x 5/8 po
-    * 1 ordinateur pour programmer
+    * 2 raspberry pi
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -132,17 +127,16 @@ Examples:
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP
-    - Xavier Martel-Lachance
     - William Racine
 * Superviseurs
     - Daryl Hubert
     - Guillaume Arseneault
+    - Lora Boisvert
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Des passages illuminés pour circuler entre les installations
     * Des codes QR à l'entré de chaque installation
 
 * L'aménagement paysagé en diagonal de l'entré de la salle André-Mathieu
