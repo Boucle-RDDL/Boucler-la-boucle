@@ -6,25 +6,25 @@
     - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
-    - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))Bug
-    - [Scénario, scénarimage ou document audio/visuel](#Scénario-scénarimage-ou-document-audiovisuel)Bug
+    - [Tableau d'ambiance (*moodboard*)](#Tableau-dambiance-moodboard)
+    - [Scénario, scénarimage ou document audio/visuel](#Scénario-scénarimage-ou-document-audiovisuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments)
-3. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))Bug
+3. [Planification technique d'un prototype (devis technique)](#Planification-technique-dun-prototype-devis-technique)
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
     - [Matériel de scénographie requis](#Matériel-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
-    - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))Bug
+    - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-rangement-et-locaux)
     - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
-4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))Bug
+4. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-dun-prototype-budget-et-étapes-de-réalisation)
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
-    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))Bug
-    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)Bug
+    - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-léquipe)
+    - [Moments des rencontres d'équipe](#Moments-des-rencontres-déquipe)
 
 # Intention ou concept
 ## Cartographie
