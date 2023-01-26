@@ -29,7 +29,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
-![Exemple de cartographie 3](medias/vue_haut.png)
+![Exemple de cartographie 3](medias/google%20earth.png)
 
 ## Intention de départ
 Les sentiers ont pour but de guider et d'augmenter la correlation entre les différentes installations.
