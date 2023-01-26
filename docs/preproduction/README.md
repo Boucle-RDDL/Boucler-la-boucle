@@ -67,6 +67,7 @@ Examples:
     - [Light Walk Project](https://www.youtube.com/watch?v=jSrhLRTffrM&ab_channel=UrukiaMagazine)</br>
     - [Exemple de projet cr34te 1](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/EY4aOW37TLVNh72izw-SoCoB6E5DdkiLFSTrh0d6RxYDTQ?e=hg7QoH)</br>
     - [Exemple de projet cr34te 2](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/Eanpu6OrqrBLk1bsARDwz_gB6l0o3f3K2gj0bxMGrFXFZQ?e=O4kke9)</br>
+    - ["Les Sentiers Lumineux de Noël" du Parc Floral de Paris](https://parissecret.com/wp-content/uploads/2022/10/PA22-GalleryHR-8-1024x722.jpg)</br>
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
