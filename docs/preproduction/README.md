@@ -32,10 +32,10 @@
 ![Exemple de cartographie 3](medias/vue_haut.png)
 
 ## Intention de départ
-Ce projet a pour but d'augmenter l'immersion dans les attractions lorsque les visiteurs vont arriver dans le passage. L'ambiance est pensée pour donner l'impression de transition d'un univers à l'autre lors du déplacement vers une installation.
+Les sentiers ont pour but de guider et d'augmenter la correlation entre les différentes installations.
 
 ## Synopsis
-Des piétons circulant dans des sentiers illuminés pour se déplacer entre des installations multimédias interactives se rendent compte que cedit sentier réagit à leurs déplacements. Par la suite, les piétons remarquent la présence de codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo pour explorer les paysages des attractions en profondeur.   
+Des piétons circulant dans des sentiers illuminés pour se déplacer entre des installations multimédias interactives se rendent compte que cedit sentier réagit à leurs déplacements. Par la suite, les piétons remarquent la présence de codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo pour explorer les différents univers en profondeur.   
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
@@ -47,11 +47,10 @@ Des piétons circulant dans des sentiers illuminés pour se déplacer entre des 
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)</br>
+## Scénario, scénarimage ou document audio/visuel</br>
 Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence.</br>
-Ces dernières sont "suivrent" le passant et vont aller sur le rythme de l'ambiance.</br>
-Le sujet peut aussi scanner des codes QR avant d'entrer dans les différentes installations.
+Ces dernières guident le passant et suivent le rythme de l'ambiance.</br>
+Le sujet peut aussi scanner des codes QR afin d'avoir des informations sur les différentes installations.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -87,34 +86,39 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Vidéos d'explication pour chaque page web
 
-* 2 ambiances sonores
+* 3 Ambiances sonores
 
 * 5 panneaux avec code QR
 
-* 4 capteurs de mouvements
+* 6 capteurs de mouvements
+
+* 12 bandes DEL
+
+* 12 tiges pour câble d'ancrage
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs passifs de 4"
-    * 2 amplis ip65
+    * 6 haut-parleurs actifs de 4"
+    * 6 fils XLR 3 conducteurs de 15' (M->F)
 
 * Lumière
-    * (Nombre à déterminer)300 DMX Dot 5w
-    * 12 boules lumineuses 36" ip65
-    * 3 "spot style american DJ" 
+    * 3 bandes de lumière DEL 20m
     
 * Électricité
     * Alimentation électrique
 
 * Arduino
-    * 4 contrôlleurs arduino (nano)
+    * 6 contrôlleurs arduino nano
     * 2 kits de fils pour plaquette électronique
-    * 4 plaquettes électronique
+    * 6 plaquettes électronique
 
 * Autre
-    * 2 raspberry pi
+    * 6 câbles d'aéronef galvanisé
+    * 12 boucles de serrage Strata
+    * 12 tiges pour câble d'ancrage 36 po de long x 5/8 po
+    * 1 ordinateur pour programmer
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -122,19 +126,20 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Arduino](https://www.arduino.cc/) 
 
 ## Ressources humaines requises
-> Formaté en liste
+> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP
+    - Xavier Martel-Lachance
     - William Racine
 * Superviseurs
     - Daryl Hubert
     - Guillaume Arseneault
-    - Lora Boisvert
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
+    * Des passages illuminés pour circuler entre les installations
     * Des codes QR à l'entré de chaque installation
 
 * L'aménagement paysagé en diagonal de l'entré de la salle André-Mathieu
