@@ -57,7 +57,7 @@ L'échéancier pour les tâches de cette semaine a été respecté. Cependant, j
 Ne s'applique pas vraiment, ceci-dit rester plus longtemps au collège ne ferais pas de mal.
 
 ### Défis pour la prochaine semaine
-Mon défi pour la semiane prochaine est de mettre à jour le budget du projet.
+Mon défi pour la semaine prochaine est de mettre à jour le budget du projet.
 
 ---
 ## Semaine 2
