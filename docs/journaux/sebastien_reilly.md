@@ -19,25 +19,29 @@
 - J'ai retravaillé une partie du document de la préproduction, spécialement les liens vers les tâches et l'échéancier.
 - J'ai créé plusieurs "milestone" pour nous permetttre de suivre un échéancier. 
 - J'ai commencé à assigner des tâche dans le tableau de tâche.
+- J'ai arrangé le schéma de branchement du document de préproduction.
+- Je me suis assuré que la table des matières du document de préproduction fonctionne correctement.
+- Moi et mon équipe avont déterminé le matériel requis pour le projet.
+- J'ai fait du repérage sur les lieux du site.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![photo du site 1](medias/photo_site_1.jpg)
 ou
-![ici est une description de l'image](medias/console.jpg)
+![photo du site 2](medias/photo_site_2.jpg)
 ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![photo du site 3](medias/photo_site_3.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Ma gestion du temps fut optimale et l'ensemble des tâches que je m'étais fixés ont été réalisés.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Ne s'applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -47,13 +51,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+L'échéancier pour les tâches de cette semaine a été respecté. Cependant, j'aurais aimé prendre de l'avance sur la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Ne s'applique pas vraiment, ceci-dit rester plus longtemps au collège ne ferais pas de mal.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Mon défi pour la semiane prochaine est de mettre à jour le budget du projet.
 
 ---
 ## Semaine 2
