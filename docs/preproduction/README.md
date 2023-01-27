@@ -79,7 +79,7 @@ Examples:</br>
 
 ### Schéma de branchement
 
-[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/
+![schéma de branchement](https://drive.google.com/file/d/1MTk0y-rz8VRT4-RAvU4kfJ4zm9iOJzhu/view?usp=sharing)
 
 ## Matériel de scénographie requis
 
