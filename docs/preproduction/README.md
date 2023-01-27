@@ -192,7 +192,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/SabrinaLaforest
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3ASabrinaLaforest
 
 **Sébastien Reilly**
-- Coordinateur générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
+- Coordonnateur générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Programmeur;
 - Opérateur web;
 - Installation de l'équipement dans l'espace physique.
@@ -203,7 +203,7 @@ https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3Ase
 
 **Maxime Des Lauriers**
 - Création des paysages sonores sonores;
-- Coordinateur technique (suivi du devis technique);
+- Coordonnateur technique (suivi du devis technique);
 - Opérateur web;
 - Installation de l'équipement dans l'espace physique.
 
@@ -212,7 +212,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/MDLauriers36<br
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AMDLauriers36
 
 **Alexandre Daniel**
-- Coordinatieur artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
+- Coordonnatieur artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
