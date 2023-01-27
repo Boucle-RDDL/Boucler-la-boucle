@@ -19,7 +19,7 @@
 - J'ai retravaillé l'intention de départ et le synopsis avec l'aide de Sabrina. J'ai aussi rédigé l'univers artistique. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 1](medias/motionCapture.jpg)
+![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem1.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
