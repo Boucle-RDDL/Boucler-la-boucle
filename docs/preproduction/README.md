@@ -48,6 +48,8 @@ Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel</br>
+Quand l'installation ne détecte rien, les lampes sont dans un état de veille. Les lumières ne font qu'un faible clignotement. 
+![Scenarimage 1](medias/Scenarimage_Carte_Idle.gif)
 Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence.</br>
 Ces dernières guident le passant et suivent le rythme de l'ambiance.</br>
 Le sujet peut aussi scanner des codes QR afin d'avoir des informations sur les différentes installations.
