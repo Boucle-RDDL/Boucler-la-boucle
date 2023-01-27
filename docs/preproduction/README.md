@@ -50,13 +50,13 @@ Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les 
 ## Scénario, scénarimage ou document audio/visuel</br>
 Quand l'installation ne détecte rien, les lampes sont dans un état de veille. Les lumières ne font qu'un faible clignotement. 
 ![Scenarimage 1](medias/Scenarimage_Carte_Idle.gif)
-Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence. Les hauts-parleurs vont changer légerement l'ambiance sonore. Les lumières vont guider le visiteur vers l'installation suivante.</br>
+Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence. Les haut-parleurs vont changer légèrement l'ambiance sonore. Les lumières vont guider le visiteur vers l'installation suivante.</br>
 ![Scenarimage 2](medias/Scenarimage_Carte_2.gif)
 C'est la même chose dans l'autre sens...</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_3.gif)
-...Et dans le sentier au dessus</br>
+...Et dans le sentier au-dessus.</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_4.gif)
-Le visiteur va aussi remarquer des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
+Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
