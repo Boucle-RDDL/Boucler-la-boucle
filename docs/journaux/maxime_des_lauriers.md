@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
+- Retour sur le projet, s'assurer d'avoir une vision commune.
 - Fusce euismod ornare dolor. 
 - Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
 - Praesent viverra tristique malesuada. 
@@ -32,15 +32,15 @@ ou
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Puisque c'était la première semaine, la majorité des tâches se sont crées au fur et à mesure donc il n'y avait pas de plan ou liste de tâche à compléter mardi matin.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Il n'y a pas de problèmes majeurs pour le moment. Il faut continuer de communiquer et s'assurer que la vision du projet est commune pour tout le monde.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -50,13 +50,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Le seul bémol pour l'instant est le fait que l'on ne peut pas estimer un budget parce que les prix de ReCr4te ne sont pas affichés dans les catalogues. Aussi, il est difficile d'estimer la quantité de lumières que nous allons avoir besoin puisque les chemins que nous allons emprunter sont bloqués par la neige.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Nous pouvons utiliser des outils tels que google maps pour donner une quantité approximative de lumières nécessaires pour notre projet.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Terminer la préproduction pour avoir une approbation durant la séance mardi prochain.
 
 ---
 ## Semaine 2
