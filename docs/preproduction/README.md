@@ -54,7 +54,9 @@ Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa pr�
 ![Scenarimage 2](medias/Scenarimage_Carte_2.gif)
 C'est la même chose dans l'autre sens...</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_3.gif)
-Le sujet peut aussi scanner des codes QR afin d'avoir des informations sur les différentes installations.
+...Et dans le sentier au dessus</br>
+![Scenarimage 3](medias/Scenarimage_Carte_4.gif)
+Le visiteur va aussi remarquer des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
