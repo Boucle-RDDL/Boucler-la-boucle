@@ -79,7 +79,7 @@ Examples:</br>
 
 ### Schéma de branchement
 
-<iframe src="https://drive.google.com/file/d/1MTk0y-rz8VRT4-RAvU4kfJ4zm9iOJzhu/preview" width="640" height="480" allow="autoplay"></iframe>
+![schéma de branchement](medias/branchement.png)
 
 ## Matériel de scénographie requis
 
