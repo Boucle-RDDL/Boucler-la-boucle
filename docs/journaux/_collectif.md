@@ -36,6 +36,20 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 2
 
 ## Semaine 1
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+
+Nous avons rencontré certains défis cette semaine.
+![sentiers enneigés](medias/photo_site_2.jpg)
+
+Tout d’abord, comme prévu, nous avons déterminé les tâches de chacun dans ce projet. Nous avons également travaillé en équipe pour la réalisation de ces tâches qui consistait à mettre à jour la documentation de la préproduction.
+![document de préproduction](medias/préprod_update.png)
+
+Par la suite, nous voulions prendre des photos des lieux pour nous permettre de visualiser concrêtement où ce situerait notre insatallation. Cependant, la totalité des lieux était enneigés et donc innacessible.
+![sentiers enneigés 2](medias/photo_site_3.jpg)
+
+Finalement, suite à le réunion du comité technique de jeudi matin, nous nous sommes rencontré en équipe pour discuter de la marche à suivre en terme de matériel à utiliser.
+
+Nous sommes confiant pour la suite des choses et avons hâte de présenter ce que nous avons!
 
 
 
