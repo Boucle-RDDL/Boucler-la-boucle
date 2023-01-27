@@ -16,12 +16,10 @@
 
 ### Résumé des réalisations effectuées
 - Retour sur le projet, s'assurer d'avoir une vision commune.
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Ajuster la page d'accueil et les pages de membres. 
+- Changer la liste de matériel.
+- Repenser la localisation de chaque éléments.
+- Plusieurs discussions/brainstorm d'équipe.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/motionCapture.jpg)
