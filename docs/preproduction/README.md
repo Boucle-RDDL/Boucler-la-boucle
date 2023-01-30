@@ -85,7 +85,7 @@ Examples:</br>
 
 ### Schéma de branchement
 
-![schéma de branchement](medias/branchement.png)
+![schéma de branchement](medias/branchement_2.png)
 
 ## Matériel de scénographie requis
 
