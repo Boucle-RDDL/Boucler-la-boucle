@@ -61,8 +61,8 @@ Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanne
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 5 pages web pour chaque projet
-- 5 vidéos d'animation pour les sites
+- 1 page web
+- 1 vidéo d'animation explicative
 - 2 paysages sonores
 - 2 univers colorés illuminés
 
