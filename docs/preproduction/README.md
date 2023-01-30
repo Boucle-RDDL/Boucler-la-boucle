@@ -115,12 +115,8 @@ Examples:</br>
     
 * Électricité
     * Alimentation électrique
-
-* Arduino
-    * 4 micro-contrôlleurs arduino (nano)
-    * 2 kits de fils pour plaquette électronique
-    * 4 plaquettes électronique
-    * 4 capteurs de mouvements
+    * 2 capteurs de mouvements
+    * 2 switch poe
 
 * Autre
     * 2 raspberry pi
@@ -128,7 +124,6 @@ Examples:</br>
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [Arduino](https://www.arduino.cc/) 
 * [QLC+](https://www.qlcplus.org/)
 * [Reaper](https://www.reaper.fm/)
 
@@ -159,7 +154,7 @@ Examples:</br>
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | La température hivernale                         | Isoler correctement le matériel                       | Nous pourrions toujours utiliser du matériel résistant à l'eau et aux températures variante  |
-| La longueur des bande DEL pourait poser problème | Avoir plus de capteur de mouvements                   | Nous pourrions aussi mettre des relais                                                       |
+| La détection des passants se fait mal            | Ajuster l'échelle de donnée                           | Nous pourrions ainsi mieux contrôler les données qu'on reçoit|
 | Les sites web qui ne marchent pas                | S'assurer de faire des examens diagnostiques          | Nous pourrions aussi faire un github pour s'assurer que chaque membre puissent contribuer    |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
