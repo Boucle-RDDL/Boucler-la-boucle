@@ -184,7 +184,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 > Il est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet se prendront en groupe lors des rencontres d'équipe. Cependant, les décisions entre les rencontres de groupe appartiendront à ces personnes.
 
 **Sabrina Laforest**
-- Responsable des communications (reponsable de la communication entre les équipes);
+- Responsable des communications (responsable de la communication entre les équipes);
 - Animatrice 3D;
 - Installation de l'équipement dans l'espace physique.
 
