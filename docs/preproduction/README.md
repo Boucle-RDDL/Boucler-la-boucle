@@ -91,16 +91,14 @@ Examples:</br>
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Pages web
-    * Une page par projet
+* 1 page web
 
-* Vidéos d'explication pour chaque page web
+* 1 video d'expliquation
 
-* 2 Ambiances sonores
+* 2 ambiances sonores
 
-* 5 panneaux avec code QR
+* 2 panneaux avec code QR
 
-* 4 capteurs de mouvements
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -115,7 +113,7 @@ Examples:</br>
     
 * Électricité
     * Alimentation électrique
-    * 2 capteurs de mouvements
+    * 4 capteurs de mouvements
     * 2 switch poe
 
 * Autre
