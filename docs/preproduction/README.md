@@ -66,7 +66,7 @@ Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanne
 - 2 paysages sonores
 - 2 univers colorés illuminés
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
 
 ## Univers artistique des éléments
 Examples:</br>
