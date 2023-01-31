@@ -183,6 +183,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 
 **Sabrina Laforest**
 - Responsable des communications (responsable de la communication entre les équipes);
+- Responsable des codes QR;
 - Animatrice 3D;
 - Installation de l'équipement dans l'espace physique.
 
