@@ -10,6 +10,7 @@
     - [Scénario, scénarimage ou document audio/visuel](#Scénario-scénarimage-ou-document-audiovisuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
+    - [Utilisation des codes QR](#Utilisation-des-codes-QR)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments)
 3. [Planification technique d'un prototype (devis technique)](#Planification-technique-dun-prototype-devis-technique)
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
@@ -58,18 +59,28 @@ C'est la même chose dans l'autre sens...</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_4.gif)
 Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
 
-# Contenu multimédia à intégrer
+# Contenu multimédia
 ## Inventaire du contenu multimédia
 
-- 1 page web
-- 1 vidéo d'animation explicative
+- 4 pages web
+- 4 vidéos d'animation explicative
 - 2 paysages sonores
 - 2 univers colorés illuminés
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
 
+## Utilisation des codes QR
+> Description de comment les codes QR seront utilisés dans le projet et qu'est-ce que ceux-ci apportent au projet.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+> Insertion d'images permettant d'appuyer la description (MoodBoard).
+![Mycelium](medias/mycelium.jpg)
+
+> Insertion de lien vers d'autre médias s'il y a lieu.
+
+
 ## Univers artistique des éléments
-Examples:</br>
+Exemples:</br>
     - [Light Walk Project](https://www.youtube.com/watch?v=jSrhLRTffrM&ab_channel=UrukiaMagazine)</br>
     - [Exemple de projet cr34te 1](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/EY4aOW37TLVNh72izw-SoCoB6E5DdkiLFSTrh0d6RxYDTQ?e=hg7QoH)</br>
     - [Exemple de projet cr34te 2](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/Eanpu6OrqrBLk1bsARDwz_gB6l0o3f3K2gj0bxMGrFXFZQ?e=O4kke9)</br>
@@ -91,13 +102,13 @@ Examples:</br>
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* 1 page web
+* 4 pages web
 
-* 1 video d'expliquation
+* 4 videos d'expliquation
 
 * 2 ambiances sonores
 
-* 2 panneaux avec code QR
+* 4 panneaux avec code QR
 
 
 ## Équipements requis
@@ -105,7 +116,7 @@ Examples:</br>
 
 * Audio
     * 4 haut-parleurs passifs de 4"
-    * 2 amplis ip65
+    * 4 amplis ip65
 
 * Lumière
     * (Nombre à déterminer)300 DMX Dot 5w ip65
@@ -117,7 +128,8 @@ Examples:</br>
     * 2 switch poe
 
 * Autre
-    * 2 raspberry pi
+    * 1 micromac
+    * 300 pots de fleurs
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -168,7 +180,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/milestones
 
 *Dates importantes :*
 - Première itération : Mardi 24 janvier
-- Prototype finale :  Mardi 21 février
+- Prototype final :  Mardi 21 février
 - Présentation des projets devant public : jeudi 23 mars (soir)
 
 ## Liste des tâches à réaliser
