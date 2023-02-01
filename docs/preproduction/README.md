@@ -131,6 +131,8 @@ Exemples:</br>
     * 1 micromac
     * 300 pots de fleurs
 
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
+
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
