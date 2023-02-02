@@ -117,19 +117,24 @@ Exemples:</br>
 * Audio
     * 8 haut-parleurs passifs de 4"
     * 8 amplis ip65
+    * 1 carte de son 8 entrés
 
 * Lumière
-    * (Nombre à déterminer)300 DMX Dot 5w ip65
-    * 15 Boules lumineuses ip65
+    * 750' strings festoon
+    * 15 boules lumineuse 200 mm ip65
+    * 8 boules lumineuses 36" ip65
     
 * Électricité
     * Alimentation électrique
     * 4 capteurs de mouvements
-    * 2 switch poe
+    * 4 m5atom poe
+    * 1 switch poe
+    * (hauts-parleurs je sais pas quel type de fils) 2*30m, 2*25m, 3*15m, 1*10m
 
 * Autre
-    * 1 macmini
-    * 300 pots de fleurs
+    * 1 Macmini
+    * 15 pots de fleurs
+    * 8 supports à haut-parleur
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
 
