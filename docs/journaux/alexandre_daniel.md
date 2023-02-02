@@ -52,40 +52,41 @@ Nous devons finaliser le budget et la vidéo de présentation.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+-Mon équipe et moi avons retravaillé les thèmes, la répartition des zones et le matériel. 
+-J'ai compléter l'inventaire multimédia. 
 
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
+### Image d'une réalisation dont tu es la ou le plus fier 
+![Image de realisation semaine 2](medias/Alexandre_Realisation_Sem2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
+#### Décrivez pourquoi. 
+Disons que nous avons eu beaucoup de changements au niveau du scénario de la direction artistique.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons organiser une rencontre prochainement pour que nous soyons bien ancrés.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a eu des retards dans l'agenda, à cause des nombreux changements au concept de l'installation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons organiser une rencontre prochainement pour que nous soyons bien ancrés.
 
 ### Défis pour la prochaine semaine
-
+Nous devons avoir quelque chose de concret à présenter pour être prêt pour le prototypage.
 
 ---
 ## Semaine 3 
