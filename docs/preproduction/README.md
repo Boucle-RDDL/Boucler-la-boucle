@@ -123,7 +123,7 @@ Exemples:</br>
 * Lumière
     * 750' strings festoon
     * 15 boules lumineuse 200 mm ip65
-    * 8 boules lumineuses 36" ip65
+    * 11 boules lumineuses 36" ip65
     
 * Électricité
     * Alimentation électrique
@@ -136,6 +136,7 @@ Exemples:</br>
     * 1 Macmini
     * 15 pots de fleurs
     * 8 supports à haut-parleur
+    * 22 ponts d'éclairage 1m
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
 
