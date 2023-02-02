@@ -115,8 +115,8 @@ Exemples:</br>
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs passifs de 4"
-    * 4 amplis ip65
+    * 8 haut-parleurs passifs de 4"
+    * 8 amplis ip65
 
 * Lumière
     * (Nombre à déterminer)300 DMX Dot 5w ip65
@@ -128,7 +128,7 @@ Exemples:</br>
     * 2 switch poe
 
 * Autre
-    * 1 micromac
+    * 1 macmini
     * 300 pots de fleurs
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
