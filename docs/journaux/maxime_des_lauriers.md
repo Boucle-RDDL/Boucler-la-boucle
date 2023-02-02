@@ -63,12 +63,12 @@ Terminer la préproduction pour avoir une approbation durant la séance mardi pr
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le projet évolue et change à chaque jour et nous pousse à toujours régler les nouveaux problèmes auxquels nous faisons face. Néanmoins, le projet prend forme et on se rapproche d'un projet intéressant qui vaut la peine d'être créé et visité par le public.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -77,17 +77,17 @@ Terminer la préproduction pour avoir une approbation durant la séance mardi pr
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le projet évolue beaucoup dans nos têtes mais nous oublions souvent d'écrire les changements ou ajouter les choses qui doivent être ajoutés dans notre documentation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+S'assurer de garder trace de tout chanmgement qui est discuté.
 
 ### Défis pour la prochaine semaine
-
+Commencer à prototyper des animations de lumière et commencer la conception des sons qui vont englober notre projet.
 
 ---
 ## Semaine 3 
