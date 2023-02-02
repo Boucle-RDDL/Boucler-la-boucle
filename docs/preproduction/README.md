@@ -71,6 +71,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ## Utilisation des codes QR
 > Description de comment les codes QR seront utilisés dans le projet et qu'est-ce que ceux-ci apportent au projet.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 > Insertion d'images permettant d'appuyer la description (MoodBoard).
