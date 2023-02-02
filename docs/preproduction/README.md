@@ -129,7 +129,7 @@ Exemples:</br>
     * 4 capteurs de mouvements
     * 4 m5atom poe
     * 1 switch poe
-    * (hauts-parleurs je sais pas quel type de fils) 2*30m, 2*25m, 3*15m, 1*10m
+    * (hauts-parleurs je sais pas quel type de fils) 2 x 30m, 2 x 25m, 3 x 15m, 1 x 10m
 
 * Autre
     * 1 Macmini
