@@ -54,7 +54,7 @@ Terminer la préproduction pour avoir une approbation durant la séance mardi pr
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Repenser le projet avec les nouveaux enjeux (espace emprunté, matériel utilisé) et baisser la charge de travail de notre projet pour qu'il soit réalisable.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Seule photo de la semaine](../web/medias/Capture_eartjh_-_Copie.png)
