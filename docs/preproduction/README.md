@@ -181,9 +181,6 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 ## Budget prévisionnel
 ![nouveau budget](medias/new_budget.png)
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
-
-
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/Boucle-RDDL/Boucler-la-boucle/milestones
