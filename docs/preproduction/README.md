@@ -179,7 +179,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-À venir cette semaine
+![nouveau budget](medias/new_budget.png)
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
