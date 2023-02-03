@@ -62,39 +62,47 @@ Mon défi pour la semaine prochaine est de mettre à jour le budget du projet.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+- J'ai créé une nouvelle section dans le document de préproduction pour intégrer plus facilement les codes QR.
+- Nous avons repenser en équipe du matériel que nous allions utilisé.
+- J'ai créé et rempli la section dédiée au matériel dans le document Excel.
+- Nous avons faite une première vidéo de présentation de la préproduction.
+- J'ai établi un premier budget.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![nouveau budget](medias/new_budget.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai accompli l'essentiel des tâches que je m'étais fixées pour cette semaine. Cependant, il me reste encore à refaire le schéma de branchement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ce sera la première tâche que je ferai avant lundi prochain.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
+- Refaire la vidéo de présentation de la préproduction avant lundi.
+- Vérifier que le site web fonctionne comme il se doit.
 
 
 ---
