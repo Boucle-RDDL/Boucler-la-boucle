@@ -53,7 +53,10 @@ Il faut vraiment que je me décide sur mes concepts pour commencer les ''sketchs
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+-Population de la section 'Code QR' dans la préproduction
+-Choix des thèmes/histoires/idées des vidéos
+-Création des moodboards et planches de styles pour chaque vidéos
+-Début des mini scénarios pour chaque animations 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -62,30 +65,33 @@ Il faut vraiment que je me décide sur mes concepts pour commencer les ''sketchs
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Bien que j'ai fini mes moodboards et planches de styles avec les nouvelles idées il aurait été idéal d'avoir fini mes scénarios pour que tout soit concret/dans le béton. Les vidéos sont encore un peu dans les nuages (voir idées abstraites) vu que les scénario ne sont pas fini ce qui rend l'explications de celles-ci plus compliquées.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Voir les défis/tâches pour la semaine prochaine
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Bien que j'aurais aimer avoir déjà commencer mes animation repenser les concepts de celles-ci ont prit plus de temps que prévu. Les concepts de vidéos ont passé d'histoires des autres projets finaux à l'histoire de nos sentiers lumineux/l'environnement de ceux-ci ce qui a pousser notre équipe a réfléchir sur qu'elle était l'intention réelle du projet si il n'y avait aucun autre projet de déployer en même temps. Après de longue discussions nous avons décider d'aller vers un 'Marais Fongique'.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je dois prendre des décisions plus rapidement et en ce fait même commencer mes sketchs et animations. Je dois arrêter de douter de mes choix, car je me stoppe moi même dans mon avancement du projet en ayant peur de faire les mauvais choix (et que mon équipe soit mécontente de mes choix).
 
 ### Défis pour la prochaine semaine
+-Faire le design final pour les champignons
+-Finir les mini scénarios pour chaque animations + les séparer en différentes scènes (pour éviter d'avoir un fichier très lourd à exporter)
+-Début des animations!!!
 
 
 ---
