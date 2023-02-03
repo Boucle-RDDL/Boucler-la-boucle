@@ -34,6 +34,21 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 3
 
 ## Semaine 2
+> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
+
+Cette semaine aura été difficile!
+![materiel](medias/materiel.png)
+
+Tout d'abord, il nous fallait impérativement arranger le document de préroduction pour ensuite tourner le 4 minutes de vidéo explicative de celle-ci.
+![prise 1](medias/prise_1.png)
+
+Par la suite, il nous a fallu travailler d'avantage sur le document de préproduction car il manquait des éléments d'importances comme les codes QR.
+![section code QR](medias/code_qr.png)
+
+Finalement, il nous fallait repenser notre liste de matériel pour nous permettre d'établir un début de budget.
+![nouveau budget](medias/new_budget.png)
+
+Bref, une semaine chargé pour notre équipe!
 
 ## Semaine 1
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
