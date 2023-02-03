@@ -57,7 +57,7 @@ Terminer la préproduction pour avoir une approbation durant la séance mardi pr
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-[Seule photo de la semaine](../docs/journaux/medias/Capture_eartjh_-_Copie.png)
+[Seule photo de la semaine](../web/medias/Capture_eartjh_-_Copie.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
