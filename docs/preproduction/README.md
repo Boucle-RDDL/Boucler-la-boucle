@@ -36,7 +36,7 @@
 Les sentiers ont pour but de guider et d'augmenter la correlation entre les différentes installations.
 
 ## Synopsis
-Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les différentes installations extérieures. Lors de leur déplacements, ceux-ci se rendent comptes que les sentiers réagissent lors de leurs passages. Parsemés dans les chemins lumineux se trouve des codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo qui décrivent les histoires et particularités des différents univers plus en profondeur.
+Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les différentes installations extérieures. Lors de leur déplacements, ceux-ci se rendent comptes que les sentiers réagissent lors de leurs passages. Parsemés dans les chemins lumineux se trouve des codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo qui décrivent les histoires et particularités de l'univers des sentiers.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
@@ -63,7 +63,7 @@ Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanne
 ## Inventaire du contenu multimédia
 
 - 4 pages web
-- 4 vidéos d'animation explicative
+- 4 vidéos d'animation 2D
 - 2 paysages sonores
 - 2 univers colorés illuminés
 
@@ -72,13 +72,12 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 ## Utilisation des codes QR
 > Description de comment les codes QR seront utilisés dans le projet et qu'est-ce que ceux-ci apportent au projet.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorsque l'utilisateur scanne un des codes QR avec sont téléphone intelligent, celui-ci sera redirigé vers une page web qui affiche l'une des vidéos d'animations. Les animations en 2D illustrent l'univers fongique duquels c'est inspiré les sentiers lumineux. 
 
 > Insertion d'images permettant d'appuyer la description (MoodBoard).
-![Mycelium](medias/mycelium.jpg)
-
-> Insertion de lien vers d'autre médias s'il y a lieu.
-
+![dimension_fongique](medias/dimension_moodboard.jpg)
+![vie_nocturne](medias/vieNocturne_moodboard.jpg)
+![terreVSfongique](medias/vs_moodboard.jpg)
 
 ## Univers artistique des éléments
 Exemples:</br>
@@ -86,6 +85,7 @@ Exemples:</br>
     - [Exemple de projet cr34te 1](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/EY4aOW37TLVNh72izw-SoCoB6E5DdkiLFSTrh0d6RxYDTQ?e=hg7QoH)</br>
     - [Exemple de projet cr34te 2](https://cmontmorency365.sharepoint.com/:i:/s/TIMH23-58266B-Expriencemultimdiainteractivecopier/Eanpu6OrqrBLk1bsARDwz_gB6l0o3f3K2gj0bxMGrFXFZQ?e=O4kke9)</br>
     - ["Les Sentiers Lumineux de Noël" du Parc Floral de Paris](https://parissecret.com/wp-content/uploads/2022/10/PA22-GalleryHR-8-1024x722.jpg)</br>
+    - [Style rechercher pour les vidéos d'animations](https://www.behance.net/gallery/111130733/SWAMP?tracking_source=search_projects_null)</br>
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -105,7 +105,7 @@ Exemples:</br>
 
 * 4 pages web
 
-* 4 videos d'expliquation
+* 4 videos d'animations 2D (image par image)
 
 * 2 ambiances sonores
 
@@ -145,6 +145,8 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 * [QLC+](https://www.qlcplus.org/)
 * [Reaper](https://www.reaper.fm/)
+* [Procreate](https://procreate.com/)
+* [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
@@ -203,17 +205,16 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues
 > Il est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet se prendront en groupe lors des rencontres d'équipe. Cependant, les décisions entre les rencontres de groupe appartiendront à ces personnes.
 
 **Sabrina Laforest**
-- Responsable des communications (responsable de la communication entre les équipes);
 - Responsable des codes QR;
-- Animatrice 3D;
-- Installation de l'équipement dans l'espace physique.
+- Créatrice des vidéos d'animations 2D image par image;
+- Monteuse des vidéos d'animations;
 
 Liste des tâches dans Git Hub:  
 https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/SabrinaLaforest<br>
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3ASabrinaLaforest
 
 **Sébastien Reilly**
-- Coordonnateur générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
+- Coordonnateur général du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Programmeur;
 - Opérateur web;
 - Installation de l'équipement dans l'espace physique.
@@ -233,7 +234,7 @@ https://github.com/Boucle-RDDL/Boucler-la-boucle/issues/assigned/MDLauriers36<br
 https://github.com/orgs/Boucle-RDDL/projects/4/views/1?filterQuery=assignee%3AMDLauriers36
 
 **Alexandre Daniel**
-- Coordonnatieur artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
+- Coordonnateur artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
