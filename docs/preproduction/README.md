@@ -121,7 +121,7 @@ Exemples:</br>
     * 1 carte de son 8 entrés
 
 * Lumière
-    * 750' strings festoon
+    * 200' strings festoon
     * 15 boules lumineuse 200 mm ip65
     * 11 boules lumineuses 36" ip65
     
@@ -134,7 +134,6 @@ Exemples:</br>
 
 * Autre
     * 1 Macmini
-    * 15 pots de fleurs
     * 8 supports à haut-parleur
     * 22 ponts d'éclairage 1m
 
