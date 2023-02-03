@@ -45,10 +45,10 @@ J'aurais préféré pouvoir commencer mes illustrations pour les vidéos a la se
 Il faut vraiment que je me décide sur mes concepts pour commencer les ''sketchs'' au minimum
 
 ### Défis pour la prochaine semaine
--Mettre a jour mes idées pour les vidéos
--Faire les moodboards pour chacunes d'entre elles 
--Faire des sketchs des éléments/personnages importants des vidéos (si possible aussi des scenes importantes)
--Ajouter plus d'élément sur ma partie du projet dans le document de préproduction
+- Mettre a jour mes idées pour les vidéos
+- Faire les moodboards pour chacunes d'entre elles 
+- Faire des sketchs des éléments/personnages importants des vidéos (si possible aussi des scenes importantes)
+- Ajouter plus d'élément sur ma partie du projet dans le document de préproduction
 
 ---
 ## Semaine 2
@@ -88,9 +88,9 @@ Bien que j'aurais aimer avoir déjà commencer mes animation repenser les concep
 Je dois prendre des décisions plus rapidement et en ce fait même commencer mes sketchs et animations. Je dois arrêter de douter de mes choix, car je me stoppe moi même dans mon avancement du projet en ayant peur de faire les mauvais choix (et que mon équipe soit mécontente de mes choix).
 
 ### Défis pour la prochaine semaine
--Faire le design final pour les champignons
--Finir les mini scénarios pour chaque animations + les séparer en différentes scènes (pour éviter d'avoir un fichier très lourd à exporter)
--Début des animations!!!
+- Faire le design final pour les champignons
+- Finir les mini scénarios pour chaque animations + les séparer en différentes scènes (pour éviter d'avoir un fichier très lourd à exporter)
+- Début des animations!!!
 
 
 ---
