@@ -34,7 +34,6 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 3
 
 ## Semaine 2
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
 Cette semaine aura été difficile!
 ![materiel](medias/materiel.png)
@@ -51,7 +50,6 @@ Finalement, il nous fallait repenser notre liste de matériel pour nous permettr
 Bref, une semaine chargé pour notre équipe!
 
 ## Semaine 1
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
 Nous avons rencontré certains défis cette semaine.
 ![sentiers enneigés](medias/photo_site_2.jpg)
