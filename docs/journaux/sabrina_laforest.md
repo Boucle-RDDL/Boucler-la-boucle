@@ -55,8 +55,8 @@ Il faut vraiment que je me décide sur mes concepts pour commencer les ''sketchs
 ### Résumé des réalisations effectuées
 -Population de la section 'Code QR' dans la préproduction
 -Choix des thèmes/histoires/idées des vidéos
--Création des moodboards et planches de styles pour chaque vidéos
--Début des mini scénarios pour chaque animations 
+-Création des moodboards pour chaque vidéos
+-Début des mini scénarios pour chaque vidéo d'animation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image de realisation semaine 2](medias/vieNocturne_moodboard.jpg)
@@ -69,7 +69,7 @@ Il faut vraiment que je me décide sur mes concepts pour commencer les ''sketchs
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Bien que j'ai fini mes moodboards et planches de styles avec les nouvelles idées il aurait été idéal d'avoir fini mes scénarios pour que tout soit concret/dans le béton. Les vidéos sont encore un peu dans les nuages (voir idées abstraites) vu que les scénario ne sont pas fini ce qui rend l'explications de celles-ci plus compliquées.
+ Bien que j'ai fini mes moodboards avec les nouvelles idées il aurait été idéal d'avoir fini mes scénarios pour que tout soit concret/dans le béton. Les vidéos sont encore un peu dans les nuages (voir idées abstraites) vu que les scénario ne sont pas fini ce qui rend l'explications de celles-ci plus compliquées.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Voir les défis/tâches pour la semaine prochaine
