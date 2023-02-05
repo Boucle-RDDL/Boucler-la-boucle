@@ -30,7 +30,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
-![Exemple de cartographie 3](medias/google%20earth.png)
+![Exemple de cartographie 3](medias/google_earth.png)
 
 ## Intention de départ
 Cet expérience a pour but d'immerger le visiteur dans une ambiance surréelle aux apparences marécageuse. 
