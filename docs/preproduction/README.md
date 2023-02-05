@@ -33,10 +33,10 @@
 ![Exemple de cartographie 3](medias/google%20earth.png)
 
 ## Intention de départ
-Les sentiers ont pour but de mettre en place l'univers d'un marécage fantaisiste et montrer comment la vie s'y propage.
+Cet expérience a pour but d'immerger le visiteur dans une ambiance surréelle aux apparences marécageuse. 
 
 ## Synopsis
-Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les différentes installations extérieures. Lors de leur déplacements, ceux-ci se rendent comptes que les sentiers réagissent lors de leurs passages. Parsemés dans les chemins lumineux se trouve des codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo qui décrivent les histoires et particularités de l'univers des sentiers.
+Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux-ci se rendent compte que le sentier interagit à leurs passages; les lumières commencent à scintiller et les sons s'intensifient. Dans le chemin lumineux se trouve des codes QR qui, une fois scannés, présentent une animation qui montrant la vie dans ce marais.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
