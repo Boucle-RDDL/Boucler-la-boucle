@@ -93,7 +93,7 @@ Exemples:</br>
 
 ### Plantation 
 
-![exemple de plantation](medias/google%20earth.png)
+![exemple de plantation](medias/google_earth.png)
 
 ### Schéma de branchement
 
