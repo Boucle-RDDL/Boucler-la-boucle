@@ -58,7 +58,7 @@ C'est la même chose dans l'autre sens...</br>
 ...Et dans le sentier au-dessus.</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_4.gif)
 Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
-
+![3D](medias/Passe_lumière.png)
 # Contenu multimédia
 ## Inventaire du contenu multimédia
 
