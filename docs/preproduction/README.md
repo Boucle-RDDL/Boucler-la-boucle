@@ -33,7 +33,7 @@
 ![Exemple de cartographie 3](medias/google%20earth.png)
 
 ## Intention de départ
-Les sentiers ont pour but de guider et d'augmenter la correlation entre les différentes installations.
+Les sentiers ont pour but de mettre l'ambiance d'un marécage fantaisiste.
 
 ## Synopsis
 Les interacteurs empruntent les sentiers illuminés pour se déplacer entre les différentes installations extérieures. Lors de leur déplacements, ceux-ci se rendent comptes que les sentiers réagissent lors de leurs passages. Parsemés dans les chemins lumineux se trouve des codes QR qui, une fois scannés par les utilisateurs, présentent une vidéo qui décrivent les histoires et particularités de l'univers des sentiers.
