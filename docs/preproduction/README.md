@@ -9,8 +9,8 @@
     - [Tableau d'ambiance (*moodboard*)](#Tableau-dambiance-moodboard)
     - [Scénario, scénarimage ou document audio/visuel](#Scénario-scénarimage-ou-document-audiovisuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
-    - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Utilisation des codes QR](#Utilisation-des-codes-QR)
+    - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments)
 3. [Planification technique d'un prototype (devis technique)](#Planification-technique-dun-prototype-devis-technique)
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
@@ -61,15 +61,6 @@ C'est la même chose dans l'autre sens...</br>
 Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
 ![3D](medias/Passe_lumiere.png)
 # Contenu multimédia
-## Inventaire du contenu multimédia
-
-- 4 pages web
-- 4 vidéos d'animation 2D
-- 2 paysages sonores
-- 2 univers colorés illuminés
-
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
-
 ## Utilisation des codes QR
 > Description de comment les codes QR seront utilisés dans le projet et qu'est-ce que ceux-ci apportent au projet.
 
@@ -84,6 +75,15 @@ Lorsque l'utilisateur scanne un des codes QR avec sont téléphone intelligent, 
 [Terre VS Fongique- Scenario](https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduction/medias/vs_scenario.png)
 ![fongvie](medias/fongvie_moodboard.jpg)
 [Fongvie - Scenario](https://www.google.com/search?client=firefox-b-d&q=work+in+progress+)
+
+## Inventaire du contenu multimédia
+
+- 4 pages web
+- 4 vidéos d'animation 2D
+- 2 paysages sonores
+- 2 univers colorés illuminés
+
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
 
 ## Univers artistique des éléments
 Exemples:</br>
