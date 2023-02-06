@@ -143,6 +143,7 @@ Exemples:</br>
     * 1 Macmini
     * 8 supports à haut-parleur
     * 22 ponts d'éclairage 1m
+    * 4 ponts d'éclairage 2m
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1908085_cmontmorency_qc_ca/EZIX9bjE7GFFnLSn6LHiPbQBZes7pXdaC9Jnwa10zP01_w?wdOrigin=TEAMS-ELECTRON.p2p.p2p&wdExp=TEAMS-CONTROL&wdhostclicktime=1675177357904&web=1)
 
