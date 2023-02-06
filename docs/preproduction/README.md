@@ -103,7 +103,7 @@ Exemples:</br>
 
 ### Schéma de branchement
 
-![schéma de branchement](medias/branchement_2.png)
+![schéma de branchement](medias/branchement_3.png)
 
 ## Matériel de scénographie requis
 
