@@ -28,6 +28,7 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-déquipe)
 
 # Intention ou concept
+[Vidéo d'intention](https://youtu.be/5iyOyhCVgjU)
 ## Cartographie
 > Exemples:
 ![Exemple de cartographie 3](medias/google_earth.png)
