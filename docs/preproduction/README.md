@@ -60,6 +60,7 @@ C'est la même chose dans l'autre sens...</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_4.gif)
 Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.
 ![3D](medias/Passe_lumiere.png)
+
 # Contenu multimédia
 ## Utilisation des codes QR
 > Description de comment les codes QR seront utilisés dans le projet et qu'est-ce que ceux-ci apportent au projet.
@@ -99,7 +100,7 @@ Exemples:</br>
 
 ### Plantation 
 
-![exemple de plantation](medias/google_earth.png)
+![exemple de plantation](medias/Passe_lumiere.png)
 
 ### Schéma de branchement
 
