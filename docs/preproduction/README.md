@@ -76,8 +76,13 @@ Lorsque l'utilisateur scanne un des codes QR avec sont téléphone intelligent, 
 
 > Insertion d'images permettant d'appuyer la description (MoodBoard).
 ![dimension_fongique](medias/dimension_moodboard.jpg)
-![vie_nocturne](medias/vieNocturne_moodboard.jpg)
+[Dimension Fongique - Scenario](https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduction/medias/dimension_scenario.png)
+![vie_nocturne](medias/vieNocturne_moodboard.jpg)\
+[Vie Nocturne - Scenario](https://www.google.com/search?client=firefox-b-d&q=work+in+progress+)
 ![terreVSfongique](medias/vs_moodboard.jpg)
+[Terre VS Fongique- Scenario](https://github.com/Boucle-RDDL/Boucler-la-boucle/blob/main/docs/preproduction/medias/vs_scenario.png)
+![fongvie](medias/fongvie_moodboard.jpg)
+[Fongvie - Scenario](https://www.google.com/search?client=firefox-b-d&q=work+in+progress+)
 
 ## Univers artistique des éléments
 Exemples:</br>
