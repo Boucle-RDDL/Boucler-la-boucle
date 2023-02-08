@@ -31,7 +31,8 @@
 [Vidéo d'intention](https://youtu.be/nYPI3L1SCVM)
 ## Cartographie
 > Exemples:
-![Exemple de cartographie 3](docs/preproduction/medias/google earth new.png)
+ 
+![Exemple de cartographie 3](medias/google earth new.png)
 
 ## Intention de départ
 Cet expérience a pour but d'immerger le visiteur dans une ambiance surréelle aux apparences marécageuse. 
