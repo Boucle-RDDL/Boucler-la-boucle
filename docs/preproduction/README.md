@@ -51,7 +51,7 @@ Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel</br>
-<Quand l'installation ne détecte rien, les lampes sont dans un état de veille. Les lumières ne font qu'un faible clignotement. 
+<!--Quand l'installation ne détecte rien, les lampes sont dans un état de veille. Les lumières ne font qu'un faible clignotement. 
 ![Scenarimage 1](medias/Scenarimage_Carte_Idle.gif)
 Lorsqu'un sujet va rentrer dans le passage, les lumières vont réagir à sa présence. Les haut-parleurs vont changer légèrement l'ambiance sonore. Les lumières vont guider le visiteur vers l'installation suivante.</br>
 ![Scenarimage 2](medias/Scenarimage_Carte_2.gif)
@@ -59,7 +59,7 @@ C'est la même chose dans l'autre sens...</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_3.gif)
 ...Et dans le sentier au-dessus.</br>
 ![Scenarimage 3](medias/Scenarimage_Carte_4.gif)
-Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.>
+Le visiteur remarquera aussi des codes QR à travers le parcours. Il peut scanner les codes afin de voir des animations sur les installations.-->
 ![3D](medias/Passe_lumiere.png)
 
 # Contenu multimédia
