@@ -100,20 +100,20 @@ Commencer à prototyper des animations de lumière et commencer la conception de
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le projet avance é prend fore de jour en jour. Cepandant, il manqueait quelques spécifications dans le document de préproduction.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Compléter le document
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -124,7 +124,7 @@ Commencer à prototyper des animations de lumière et commencer la conception de
 
 
 ### Défis pour la prochaine semaine
-
+Terminer les sketchs d'animations de sons/luimières. Prototyper une animation de lumière et de son au signal du capteur de mouvement.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
