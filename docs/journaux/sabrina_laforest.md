@@ -53,10 +53,10 @@ Il faut vraiment que je me décide sur mes concepts pour commencer les ''sketchs
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
--Population de la section 'Code QR' dans la préproduction
--Choix des thèmes/histoires/idées des vidéos
--Création des moodboards pour chaque vidéos
--Début des mini scénarios pour chaque vidéo d'animation
+- Population de la section 'Code QR' dans la préproduction
+- Choix des thèmes/histoires/idées des vidéos
+- Création des moodboards pour chaque vidéos
+- Début des mini scénarios pour chaque vidéo d'animation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image de realisation semaine 2](medias/vieNocturne_moodboard.jpg)
@@ -96,14 +96,14 @@ Je dois prendre des décisions plus rapidement et en ce fait même commencer mes
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
--Finir la population de la section 'Code QR' dans la préproduction
--Creation du logo du projet
--Debut de la baniere du projet
--Debut de la fiche informative sur le champignon
--Finition des mini scénarios pour chaque vidéo d'animation
--Participation au tournage de la video explicative
--Creation des issues dans le tableau des taches pour les animations
--Debut des animations!!! 
+- Finir la population de la section 'Code QR' dans la préproduction
+- Creation du logo du projet
+- Debut de la baniere du projet
+- Debut de la fiche informative sur le champignon
+- Finition des mini scénarios pour chaque vidéo d'animation
+- Participation au tournage de la video explicative
+- Creation des issues dans le tableau des taches pour les animations
+- Debut des animations!!! 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image de realisation semaine 3](medias/vieNocturne_scenario.png)
@@ -136,10 +136,10 @@ Encore une fois, je suis techniquement (selon moi meme) en retard dans la produc
 Il faut que finisse rapidement la baniere et la fiche explicative pour pouvoir focuser seulement sur les animations.
 
 ### Défis pour la prochaine semaine
--Faire les issues pour l'association des codes QR et la creation des sites webs?
--Finir fiche explicative du champignon
--Finir la baniere pour le site web (timMomo)
--Debut des animations (a decide laquelle)
+- Faire les issues pour l'association des codes QR et la creation des sites webs?
+- Finir fiche explicative du champignon
+- Finir la baniere pour le site web (timMomo)
+- Debut des animations (a decide laquelle)
 
 ---
 ## Semaine 4
