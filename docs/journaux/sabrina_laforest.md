@@ -96,39 +96,50 @@ Je dois prendre des décisions plus rapidement et en ce fait même commencer mes
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+-Finir la population de la section 'Code QR' dans la préproduction
+-Creation du logo du projet
+-Debut de la baniere du projet
+-Debut de la fiche informative sur le champignon
+-Finition des mini scénarios pour chaque vidéo d'animation
+-Participation au tournage de la video explicative
+-Creation des issues dans le tableau des taches pour les animations
+-Debut des animations!!! 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image de realisation semaine 3](medias/vieNocturne_scenario.png)
+Bien qu'il n'y ai pas beaucoup de scenes je trouve que le message et les notes sont claires. J'ai pu inclure des elements qui m'interessent et me stimule j'ai tres hate de commence cette video! 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Plusieurs nouvelles taches se sont ajoutees au fur de la semaine (logo, banieres, issues, etc). Toutefois, mes idees sont beaucoup plus claires que la semaine derniere, je pense que la creation des animations ira plus rapidement que prevu. Le design final pour le champignon est decide il ne manque plus que sa fiche explicative.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Bien que j'aurais prefere avoir deja commence mes animations je trouve avoir accompli assez de taches. Plus est toujours mieux mais je suis quand meme fiere de ce que j'ai fait.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Encore une fois, je suis techniquement (selon moi meme) en retard dans la production de mes animations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il faut que finisse rapidement la baniere et la fiche explicative pour pouvoir focuser seulement sur les animations.
 
 ### Défis pour la prochaine semaine
+-Faire les issues pour l'association des codes QR et la creation des sites webs?
+-Finir fiche explicative du champignon
+-Finir la baniere pour le site web (timMomo)
+-Debut des animations (a decide laquelle)
 
 ---
 ## Semaine 4
