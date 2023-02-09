@@ -91,39 +91,41 @@ Nous devons avoir quelque chose de concret à présenter pour être prêt pour l
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+-Mon équipe et moi avons retravaillé les thèmes, la répartition des zones et le matériel. 
+-Nous avons établi les rôles précis pour la "production multimédia". Je m'occupe de l'aspect visuel. Ce qui implique le fait que je dois réapprendre After Effects.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 2](medias/Alexandre_Realisation_Sem3.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous avons bien travaillé, mais il y a des connaissances qui ne sont pas à notre portée pour le prototypage. Par exemple, l'utilisation de MadMapper. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons regarder des guides sur Internet pour savoir comment connecter une lumière adressable sur ce logiciel. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous avons eu certains problèmes concernant la vidéo de présentation du projet et la liste de matériel. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons prendre un peu de recul pour savoir ce dont nous avons vraiment besoin. 
 
 ### Défis pour la prochaine semaine
+Commencer le prototypage avec le matériel. 
 
 ---
 ## Semaine 4
