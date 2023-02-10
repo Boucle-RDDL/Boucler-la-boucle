@@ -91,7 +91,7 @@ Commencer à prototyper des animations de lumière et commencer la conception de
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Finalisation de la plantation, conceptualisation de l'ambiance sonore et simulations d'interaction avec lumière.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
