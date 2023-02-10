@@ -108,7 +108,7 @@ Finalisation de la plantation, conceptualisation de l'ambiance sonore et simulat
  Le projet avance é prend fore de jour en jour. Cepandant, il manqueait quelques spécifications dans le document de préproduction.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Compléter le document
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
