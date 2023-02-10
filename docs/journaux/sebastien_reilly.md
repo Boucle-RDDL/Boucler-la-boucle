@@ -108,40 +108,45 @@ Ne s'applique pas.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+-J'ai commencer à me familiariser avec Madmapper
+-J'ai découvert Open Stage Control et réussit à le faire interagir avec Madmapper
+-Je me suis assuré que la navigation sur le site web fonctionne
+-Nous avons refaite la vidéo de présentation de la préproduction
+-Nous avons pris connaissance de la grosseur des boules lumineuses et avons changer le plan en conséquence
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Open Stage Control](medias/osc.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Même si les tâches que je m'étais fixé pour cette semaine sont faites, j'ai l'impression d'avoir travaillé moins fort cette semaine. J'ai manqué une journée à cause que j'étais malade et j'ai eu de la misère à rattraper.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Essayer de ne pas être malade et de travailler plus fort.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il n'y a pas eu d'écart.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
-
+-Commencer à travailler avec Max msp.
+-Continuer les tests avec les lumières.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
