@@ -123,7 +123,8 @@ Finalisation de la plantation, conceptualisation de l'ambiance sonore et simulat
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Défis pour la prochaine semaine
+### Défis pour la prochaine semaine.
+
 Terminer les sketchs d'animations de sons/luimières. Prototyper une animation de lumière et de son au signal du capteur de mouvement.
 ---
 ## Semaine 4
