@@ -98,10 +98,12 @@ Exemples:</br>
 
 ## Sons 
 Le son est un des éléments clés pour la réussite d'une bonne installation. 
-<a href="https://soundcloud.com/maxime-des-lauriers/test1" title="Test1" target="_blank" style="color: #cccccc; text-decoration: none;">Test1</a></div>
+
 
 Pour notre ambiance sonore, il nous fallait quelque chose d'harmonieux sans pour autant avoir des mélodies distinguables. Quelque chose de puissant qui permettait de créer l'ambiance et donner le ton des autres éléments multimédia de notre projet. Pour cela, nous nous somme inspirés de sonorités mystiques qui démontre une certaine fantaisie.
-Voici notre [Inspirations](https://www.youtube.com/watch?v=3_cnug2Duac&list=PLWz6km8HlreqF3cTuoSM92nXmqZeTXy79). 
+
+- Voici notre [Inspirations](https://www.youtube.com/watch?v=3_cnug2Duac&list=PLWz6km8HlreqF3cTuoSM92nXmqZeTXy79). 
+- <a href="https://soundcloud.com/maxime-des-lauriers/test1" title="Test1" target="_blank" style="color: #cccccc; text-decoration: none;">Premier échantillon</a></div>
 
 
 # Planification technique d'un prototype (devis technique)
