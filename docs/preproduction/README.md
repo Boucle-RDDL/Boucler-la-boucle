@@ -98,7 +98,7 @@ Exemples:</br>
 
 ## Sons 
 Le son est un des éléments clés pour la réussite d'une bonne installation. 
-![](test1.wav)
+![](test1.mp3)
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette section.  
