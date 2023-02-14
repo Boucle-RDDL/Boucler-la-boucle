@@ -99,6 +99,7 @@ Exemples:</br>
 ## Sons 
 Le son est un des éléments clés pour la réussite d'une bonne installation. 
 <a href="https://soundcloud.com/maxime-des-lauriers/test1" title="Test1" target="_blank" style="color: #cccccc; text-decoration: none;">Test1</a></div>
+[Inspirations](https://www.youtube.com/watch?v=3_cnug2Duac&list=PLWz6km8HlreqF3cTuoSM92nXmqZeTXy79)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
