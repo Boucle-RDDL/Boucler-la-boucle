@@ -95,9 +95,10 @@ Exemples:</br>
     - ["Les Sentiers Lumineux de Noël" du Parc Floral de Paris](https://parissecret.com/wp-content/uploads/2022/10/PA22-GalleryHR-8-1024x722.jpg)</br>
     - [Style rechercher pour les vidéos d'animations](https://www.behance.net/gallery/111130733/SWAMP?tracking_source=search_projects_null)</br>
 ## Lumières et visuels 
+
 ## Sons 
 Le son est un des éléments clés pour la réussite d'une bonne installation. 
-![](filename.mp3)
+![](test1.wav)
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette section.  
