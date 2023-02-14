@@ -99,6 +99,7 @@ Exemples:</br>
 ## Sons 
 Le son est un des éléments clés pour la réussite d'une bonne installation. 
 [](test1.flac "{media=audio}")
+<audio src="medias/test1.flac" controls preload></audio>
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette section.  
