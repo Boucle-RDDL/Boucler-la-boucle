@@ -32,6 +32,25 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 4
 
 ## Semaine 3
+Cette semaine aura été efficace!
+![uqam](medias/uqam.jpg)
+
+Tout d'abord, nous sommes allé visiter les étudiants en médias intéractifs de l'uqam pour voir les projets qu'ils sont en train de monter ainsi que pour leur présenter nos projets. Cela nous a permit de mieux comprendre le potentiel du matériel que nous allons utiliser.
+![uqam](medias/uqam.jpg)
+
+Ensuite, il nous fallait commencer à travailler avec Madmapper pour se familiariser avec l'environnement ainsi que pour commencer à créer une scène.
+![madmapper 1](medias/madmapper_1.PNG)
+
+Après, il fallait également commencer à créer le son que nous allons utiliser dans notre projet.
+
+Aussi, il fallait créer des scénarios pour les animations en lien avec les codes Qr.
+![vieNocturne scénario](medias/vieNocturne_scenario.png)
+
+Finalement, il fallait commencer à concevoir une façon de faire pour recevoir les données du capteur de mouvement et que ça influence les lumières et le son.
+![open stage control](medias/osc.png)
+
+Nous sommes content de la progression du projet!
+
 
 ## Semaine 2
 
