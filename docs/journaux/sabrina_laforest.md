@@ -144,39 +144,45 @@ Il faut que finisse rapidement la baniere et la fiche explicative pour pouvoir f
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Finalisation des issues pour les animations et codes QR
+- Finalisation des compositions visuelles pour l'animation Dimension Fongique
+- Début de l'animation Dimension Fongique (scene 3 et 4)
+- Début du prototypage pour les code QR/site webs via une vidéo 'Test'
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image de realisation semaine 4](medias/grotte.png)
+J'ai adoré travailler sur la grotte pour la scène 3 de Dimension Fongique. Je ne suis pas à l'aise avec les environnements et je suis très heureuse du résultat. Avec le feedback de mes cooéquipiers j'ai pu ajouter des textures auquels je n'aurais pas penser.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Vu que le nom du projet n'arrete pas de changer j'ai décidé de laisser tomber la banière et le logo. Ceux-ci seront créer plus tard pour éviter la perte de temps (en créer plusieurs pour rien). La fiche explicative du champignon n'a aussi pas été complétée. J'ai mis toute mon attention sur les animations à la place. De plus, le prototypage pour les codes QR se sont rajouter à la liste de tache. De plus, Jeudi passé je me suis coupée assez profondément au doigts ce qui a fait que je ne pouvais pas dessiner pendant quelques jours.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Tout le branding/le visuel du projet et du champignon sont remis à plus tard quand le nom du projet sera 'couler dans le béton' pour éviter de la perte de temps. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Je pense ne pas être assez avancée dans mes animations vu la charge de travail à faire. Je pense que j'aurais dut avoir finit une animation mais ce n'est pas la cas. Le stress commence a se faire sentir !!! 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Chop Chop il faut que j'embreille et mette les bouchées doubles. J'ai trouvé de nouvelles techniques avec mon logiciel pour faire des effets plus rapidement alors sa devrait aider un peut au minimum.
 
 ### Défis pour la prochaine semaine
+- Finir le prototypage des code QR/site webs 
+- Finir l'animation Dimension Fongique (montage vidéo inclus)
+- Débuter et Finir l'animation Fongvie (si possible?)
 
 ---
 ## Semaine 5
