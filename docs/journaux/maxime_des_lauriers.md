@@ -129,21 +129,22 @@ Terminer les sketchs d'animations de sons/luimières. Prototyper une animation d
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+Création d'une bande sonore de base, branchement de tout les composants audios et tester la qualité de ceux-ci.
+Rencontre avec JC pour agencer les bandes sonores pour avoir une certaine unité.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![UQAM](../journaux/medias/uqam.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le prototypage est complet, (sauf capteurs)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
