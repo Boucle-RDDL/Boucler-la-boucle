@@ -129,8 +129,9 @@ Commencer le prototypage avec le matériel.
 
 ---
 ## Semaine 4
-### Résumé des réalisations effectuées
-
+### Résumé des réalisations effectuées 
+- Nous avons officiellement commencé le protoypage. 
+- J'ai commencé à maîtriser After Effects et MadMapper pour faire l'aspect visuel du prototype. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -139,31 +140,31 @@ Commencer le prototypage avec le matériel.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Il y a le synopsis qui n'est plus à jour. De plus, il y a une partie "Lumières" dans la préproduction qui est incomplète. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais essayer de règler cette situation durant la fin de semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Malgré que le prototypage soit complet, nous aurions pu utiliser plus de temps pour paufiner les éclairages. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Évaluer ce que nous allons avoir de besoin en terme de médias à importer dans MadMapper. 
 
 ### Défis pour la prochaine semaine
-
+De faire des nouveaux médias sur After Effetcs pour éclairer selon nos préférences. 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
