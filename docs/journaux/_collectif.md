@@ -36,7 +36,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 Cette semaine aura été efficace!
 
 Tout d'abord, nous sommes allé visiter les étudiants en médias intéractifs de l'uqam pour voir les projets qu'ils sont en train de monter ainsi que pour leur présenter nos projets. Cela nous a permit de mieux comprendre le potentiel du matériel que nous allons utiliser.
-![uqam](medias/uqam.jpg) Image d'un projet en progression des étudiants de l'uqam en médias intéractif.
+![uqam](medias/uqam.jpg) Projet en progression des étudiants de l'uqam.
 
 Ensuite, il nous fallait commencer à travailler avec Madmapper pour se familiariser avec l'environnement ainsi que pour commencer à créer une scène.
 ![madmapper 1](medias/madmapper_1.PNG)
