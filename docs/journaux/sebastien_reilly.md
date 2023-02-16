@@ -159,7 +159,7 @@ Ne s'applique pas.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![max msp patcher son](medias/max_son_test.png)
+![max msp patcher son](medias/max_son_test.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
