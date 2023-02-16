@@ -145,44 +145,55 @@ Il n'y a pas eu d'écart.
 Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
--Commencer à travailler avec Max msp.
--Continuer les tests avec les lumières.
+- Commencer à travailler avec Max msp.
+- Continuer les tests avec les lumières.
+
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
 
+- J'ai réalisé un gestionnaire audio à l'aide de Max msp.
+- J'ai aidé à faire allumer nos lumières à l'aide de Madmapper.
+- J'ai été en mesure de simuler une interaction à l'aide d'Open Stage Control.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![max msp patcher son](medias/max_son_test.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+L'ensemble des tâches que je m'étais fixée pour cette semaine a été réalisé. Nous avons d'ailleurs un premier prototype.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Ne s'applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Ne s'appilique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
+
+Commencer à travailler avec le capteur de mouvement.
 
 ---
 ## Semaine 5
