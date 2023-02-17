@@ -134,7 +134,7 @@ Commencer le prototypage avec le matériel.
 - J'ai commencé à maîtriser After Effects et MadMapper pour faire l'aspect visuel du prototype. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem4.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
