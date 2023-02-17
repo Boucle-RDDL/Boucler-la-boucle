@@ -43,7 +43,7 @@ Ensuite, il nous fallait également créer une façon de jouer le son dans les h
 Après, il nous fallait également déclencher à la fois le son et la lumière à l'aide de Open Stage Control.
 ![open stage control](medias/osc.png)
 
-Finalement, toutes les compositions visuels pour les codes Qr ont été réalisés. Le site pour les animations est en processus de développement.
+Finalement, les illustrations et animations pour les codes Qr ont été commencées. Le site pour les animations est en processus de développement.
 ![grotte](medias/grotte.png)
 
 Nous sommes satisfait du travail effectué cette semaine et sommes confiant pour la suite des choses!
