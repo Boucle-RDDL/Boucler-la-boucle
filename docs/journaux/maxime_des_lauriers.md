@@ -134,7 +134,7 @@ Rencontre avec JC pour agencer les bandes sonores pour avoir une certaine unité
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![UQAM](../journaux/medias/uqam.jpg)
+![UQAM](../journaux/medias/semaine_4.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -151,7 +151,7 @@ Rencontre avec JC pour agencer les bandes sonores pour avoir une certaine unité
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -163,7 +163,7 @@ Rencontre avec JC pour agencer les bandes sonores pour avoir une certaine unité
 
 
 ### Défis pour la prochaine semaine
-
+Retoucher la bande sonore (basses fréquences) et ajouter plus de sons pour la rewndre plus vivante.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
