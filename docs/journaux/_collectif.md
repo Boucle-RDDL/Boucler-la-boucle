@@ -31,6 +31,24 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 4
 
+Ça aura été notre semaine avec le plus de progression visuel!
+![prototype]()
+
+Tout d'abord, il a fallu réaliser des animations pour nos lumières que nous allions utiliser dans Madmapper.
+![animation_madmapper](medias/madmapper_animation.PNG)
+
+Ensuite, il nous fallait également créer une façon de jouer le son dans les haut-parleur. Nous avons ainsi créé un déclencheur de son dans Max msp.
+![max son test](medias/max_son_test.PNG)
+
+Après, il nous fallait également déclencher à la fois le son et la lumière à l'aide de Open Stage Control.
+![open stage control](medias/osc.png)
+
+Finalement, toutes les compositions visuels pour les codes Qr ont été réalisés. Le site pour les animations est en processus de développement.
+![grotte](medias/grotte.png)
+
+Nous sommes satisfait du travail effectué cette semaine et sommes confiant pour la suite des choses!
+
+
 ## Semaine 3
 
 Cette semaine aura été efficace!
