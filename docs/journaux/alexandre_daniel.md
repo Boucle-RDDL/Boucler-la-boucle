@@ -164,7 +164,8 @@ Malgré que le prototypage soit complet, nous aurions pu utiliser plus de temps 
 Évaluer ce que nous allons avoir de besoin en terme de médias à importer dans MadMapper. 
 
 ### Défis pour la prochaine semaine
-De faire des nouveaux médias sur After Effetcs pour éclairer selon nos préférences. 
+Faire les nombreuses étapes de l'éclairage sur MadMapper et synchroniser l'audio avec Max.
+
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
