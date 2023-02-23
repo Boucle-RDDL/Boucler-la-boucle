@@ -167,28 +167,32 @@ Retoucher la bande sonore (basses fréquences) et ajouter plus de sons pour la r
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- Amélioration de la bande sonore
+- Création de sons d'interaction
+- Prototypage complet
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Prototype Fini](../journaux/medias/semaine_5.jpg)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le prototype local est terminé, il faut le rendre fonctionnel en réseau. Bref, le plus gros du projet est terminé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -200,7 +204,7 @@ Retoucher la bande sonore (basses fréquences) et ajouter plus de sons pour la r
 
 
 ### Défis pour la prochaine semaine
-
+Connexion Réseau.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
