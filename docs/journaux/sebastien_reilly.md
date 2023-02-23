@@ -202,7 +202,7 @@ Commencer à travailler avec le capteur de mouvement.
 - Avec l'aide de nos ressources humaine, j'ai fait en sorte que le son et la lumière ne se coupe pas quand un capteur est déclenché.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![max osc patcher](medias/max_osc_patcher)
+![max osc patcher](medias/max_osc_patcher.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
