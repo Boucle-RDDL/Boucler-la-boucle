@@ -169,21 +169,23 @@ Faire les nombreuses étapes de l'éclairage sur MadMapper et synchroniser l'aud
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Nous avons continué et finaliser le prototype. Nous sommes presque prêt à l'installation. 
+- Nous avons travailler sur Max et sur MadMapper afin d'avoir le résultat attendu. 
+- J'ai conçu de nouvelles animations à être importées dans MadMapper.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem5.PNG) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous vaons pour but d'importer des animations sur MadMapper et de travailler sur Max pour perfectionner le prototype.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -191,17 +193,18 @@ Faire les nombreuses étapes de l'éclairage sur MadMapper et synchroniser l'aud
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a toujours place à l'amélioration; l'animation dans MadMapper n'est clairement pas l'animation définitive.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il faudrait travailler un peu plus en dehors des cours pour prendre plus d'avance. C'était quelque chose que nous avons fait durant la préproduction, mais moins dans le prototype.
 
 ### Défis pour la prochaine semaine
+Finir les préparatifs à l'installation extérieure et faire les animations définitive sur After Effects. 
 
 ---
 ## Semaine de rattrapage
