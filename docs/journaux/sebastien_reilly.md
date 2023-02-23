@@ -198,40 +198,41 @@ Commencer à travailler avec le capteur de mouvement.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Avec l'aide de nos ressources humaine, j'ai modifié le patcher max pour qu'il fonctionne avec les capteurs de mouvements.
+- Avec l'aide de nos ressources humaine, j'ai fait en sorte que le son et la lumière ne se coupe pas quand un capteur est déclenché.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![max osc patcher](medias/max_osc_patcher)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Mon objectif pour cette semaine était de faire fonctionner le tout avec des capteurs de mouvements. J'ai réussis à les faire fonctionner et nous avons un premier prototype.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
-
+Faire en sorte que le prototype fonctionne entièrement en Art-Net.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
