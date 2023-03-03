@@ -237,39 +237,42 @@ Faire en sorte que le prototype fonctionne entièrement en Art-Net.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- J'ai changé la façon dont on contrôlait les lumières pour que ça se fasse en Art-Net.
+- J'ai changé la façon dont on contrôlait le son pour que ça se fasse via un "plugin" qui se nomme Sonobus.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![sonobus](medias/sonobus.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Même si l'ensemble des tâches que je m'étais fixé a été accompli, j'aurais souhaiter pouvoir prototyper un deuxième chemin.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Le fait d'avoir été coupé de courrant pendant deux jours n'a certainement pas aidé, mais la prochaine fois qu'un événement du genre se produit j'utiliserai la baterie portative.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+L'animation utilisé n'est pas la bonne et le son d'ambiance n'est pas encore correct. Ceci étant dis nous sommes dans les temps.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+L'animation est déjà créé et le son sera fait pour lundi qui s'en vient, pas d'inquiétude.
 
 ### Défis pour la prochaine semaine
+- Contrôler le tout avec un raspberry pi et un enode.
+- Intégrer le vrai contenu
 
 ---
 ## Semaine 6
