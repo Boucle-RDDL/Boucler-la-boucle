@@ -32,7 +32,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 4
 
 Ça aura été notre semaine avec le plus de progression visuel!
-![prototype]()
+![prototype](medias/semaine_5.jpg)
 
 Tout d'abord, il a fallu réaliser des animations pour nos lumières que nous allions utiliser dans Madmapper.
 ![animation_madmapper](medias/madmapper_animation.PNG)
