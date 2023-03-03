@@ -233,6 +233,7 @@ Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
 Faire en sorte que le prototype fonctionne entièrement en Art-Net.
+
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
