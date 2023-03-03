@@ -273,6 +273,7 @@ L'animation est déjà créé et le son sera fait pour lundi qui s'en vient, pas
 ### Défis pour la prochaine semaine
 - Contrôler le tout avec un raspberry pi et un enode.
 - Intégrer le vrai contenu
+- Création d'un second chemin
 
 ---
 ## Semaine 6
