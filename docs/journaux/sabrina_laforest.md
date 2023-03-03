@@ -187,76 +187,88 @@ Chop Chop il faut que j'embreille et mette les bouchées doubles. J'ai trouvé d
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Prototypage des code QR/site webs 
+- Terminer l'animation Dimension Fongique (montage vidéo inclus)
+- Début de l'animation Fongvie 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image de realisation semaine 4](medias/sem5.PNG)
+Bien que je n'avais pas fini a temps l'animation je suis très heureuse du résultat et des effets
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Bien que j'ai fini l'animation Dimension Fongique le prototypage ne c'est pas très bien passé (le code QR à cesser de fonctionner et le site web fonctionne à moitie.) L'animation Fongvie a été commencé, mais pas finit. J'ai été malade au début de la semaine ce qui a mit un frein sur mon avancement.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Finir Fongvie; si je n'y arrive pas (perte d'idée/d'interet pour l'instant) débuter une autre animation pour perdre le moins de temps possible. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [x] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Mon nouvel échéancier consistait de finir une animation par semaine. Je ne suis pas du tout rendue là, je n'ai pas réussi à rattraper mon retard en plus d'avoir été malade au début de la semaine ce qui m'a ralentie d'avantage dans mon travail.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je risque de devoir demander de l'aide à mes cooéquipiers pour la partie des codes QR et du site web. Vu mon retard accumuler et le résultat de cette semaine avec mes prototypages il serait pratique d'avoir un autre cerveau pour voir pourquoi sa ne fonctionne pas correctement.
 
 ### Défis pour la prochaine semaine
+- Finir l'animation Fongvie (montage vidéo inclus)
+- Faire l'animation Terre Vs Fongique (montage vidéo inclus)
 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Continuation de l'animation Fongvie (montage vidéo inclus)
+- Début de l'animation Terre Vs Fongique (montage vidéo inclus)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image de realisation semaine 4](medias/sun.png)
+Je suis très heureuse de la composition finale; il y aura beaucoup plus de mouvement que dans le scénario original.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai eu un 'down' au début de la semaine peu importe l'illustration j'en étais mécontente. A partir de Mercredi j'ai décidé de mettre de côté Fongvie et commencer VS. C'est aller beaucoup mieux j'ai repris de la vigueur et du goût a mes animations. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Dès que sa ne va pas/que je bloque sur quelque chose; je change d'animation ou de scène. J'ai aussi trouver que faire des mini animations (moins d'une seconde), mais plus de montage sauve aussi beaucoup de temps et rend la tâche plus facile/agréable. Je me suis trouver des trucs et des brosses qui rendent mon travail plus simple et tout aussi beau! 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [x] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+À ce point trois des quatres animations devraient être finit et prêtes (sans compter les détails supplémentaire si le temps le permet). Je n'ai qu'une seule animation finit et 2 à moitié finit...
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Changement d'échéancier; si je bloque sur quoi que ce soit on passe au prochain pas de temps a perdre
+- Mars 4-5: Prototypage code QR avec l'aide de mes cooéquipiers
+- Finir l'animation VS avant dimanche 16h
+- Possiblement retravailler l'idée de Fongvie car à l'instant je ne suis pas satisfaite et j'ai de la difficultée à avancer vu le manque d'intérêt enver celle-ci
 
 ### Défis pour la prochaine semaine
+- Finir l'animation Fongvie (montage vidéo inclus)
+- Avoir un nouveau prototype pour les code QR (utiliser DimensionFongique)
+- Finir l'animation Terre Vs Fongique (montage vidéo inclus)
+- Idéalement Faire au minimum 75% de l'animation Vie Nocturne
 
 ---
 ## Semaine 6
