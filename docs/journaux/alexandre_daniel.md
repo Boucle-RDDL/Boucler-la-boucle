@@ -209,39 +209,41 @@ Finir les préparatifs à l'installation extérieure et faire les animations dé
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Nous avons appris comment passer par Sonobus pour déclencher les effets sonores. 
+- J'ai conçu de nouvelles animations à être importées dans MadMapper. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 1](medias/Alexandre_Realisation_SemRatt.PNG) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Une situation qui était hors de notre contrôle nous empêcher de pleinement continuer nos expérimentations; il y eu une panne d'électricité dans le studio et il y avait peu d'alternative pour régler ce problème. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Euh... Des électriciens? 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Comme décrit plus haut, la panne nous a mis des bâtons dans les roues. Nous avons prévu à la base de voir quel matériel allait dehors ou à l'intérieur, mais vant nous avons voulu faire un test final. Sans électricité, nous n'avons rien fait de cela. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il va falloir mettre les bouchées doubles la semaine prochaine. 
 
 ### Défis pour la prochaine semaine
+Nous DEVONS absolument faire le test final et voir pour quel matériel nous aurons de besoin à l'extérieur comme à l'intérieur.
 
 ---
 ## Semaine 6
