@@ -313,8 +313,8 @@ Ne s'applique pas.
 Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
--Installer dans l'espace physique
--Faire des tests à l'extérieur.
+- Installer dans l'espace physique
+- Faire des tests à l'extérieur.
 
 ---
 ## Semaine 7
