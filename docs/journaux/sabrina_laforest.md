@@ -310,6 +310,7 @@ Pour Fongvie je vais demander du feedback et des idees a nos professeurs car je 
 
 ### Défis pour la prochaine semaine
 - Finir l'animation Fongvie 
+- Refaire le "branding" du projet :)
 - Imprimer et laminer les codes QR (s'assurer qu'ils fonctionnent)
 - Trouver des anneaux de metal pour pouvoir suspendre les codes QR imprimer
 
