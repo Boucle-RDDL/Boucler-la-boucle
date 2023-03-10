@@ -33,7 +33,7 @@ Cette semaine fut très peu productive.
 Il faut savoir que nous avons manqué d'électricité pendant 2 jours dans nos studio ce qui a rallenti notre processus de progression.
 
 Tout d'abord, il a fallu améliorer une fois de plus le patcher max pour qu'il puisse envoyer le son via un "plugin" qui s'appel sonobus.
-![sonobus](meias/sonobus.PNG)
+![sonobus](medias/sonobus.PNG)
 
 Ensuite, il a fallu changer les animations pour madmaper pour que celles-ci soient mieux adaptées à notre projet.
 ![Alexandre_Realisation_SemRatt](medias/Alexandre_Realisation_SemRatt.PNG)
