@@ -253,7 +253,7 @@ Nous DEVONS absolument faire le test final et voir pour quel matériel nous auro
 - Nous avons configuré les chemins pour que leurs éclairages soient  indépendant.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem6.PNG) 
+![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem6.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
