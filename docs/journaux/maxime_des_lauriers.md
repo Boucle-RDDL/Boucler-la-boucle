@@ -218,19 +218,19 @@ Connexion Réseau.
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ La panne d'électricité m'a obligé à faire des travaux que je ne pouvais pas faire à l'école donc je n'ai pas beacoup avancé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Donner les bouchées doubles la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -245,28 +245,29 @@ Connexion Réseau.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Rebranchement des fils pour un meilleur cable management, ajout de sonobus pour gérer le son, pelletage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![PXL_20230309_194331387](https://user-images.githubusercontent.com/90851590/224212011-d2d04946-9fc5-4c31-9f55-aae54bb2c6ba.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le travail est terminé, il reste seulement à le faire fonctionner en extérieur.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
