@@ -248,39 +248,42 @@ Nous DEVONS absolument faire le test final et voir pour quel matériel nous auro
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Pelletage. 
+- J'ai encore retravaillé des animations pour MadMapper. 
+- Nous avons configuré les chemins pour que leurs éclairages soient  indépendant.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem6.PNG) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous avons finalement pelleter la neige qui nous bloquait le chemin. Nous avons aussi, régler un problème concernant Sonobus. Cependant, nous n'avaons pas encore conçu les boîtiers étanches pour les capteurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons faire le plus vite possible pour faire nos boîtiers et percer des trous en dessous pour les fils... Ça ne sera plus vraiment étanche, mais bon.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Nous sommes quand même bien avancés, mais nous avons eu des retards soit à cause d'un manque de matériel ou d'un manque de temps pour perfectionner notre parcours. Par exemple, configurer des capteurs pour une animation qui partiait du milieu. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Il faudra prendre de l'initiative pour savoir si nous avons besoin de cette animation. Si oui, je risque d'avir du boulot à faire sur MadMapper.
 
-
-### Défis pour la prochaine semaine
+### Défis pour la prochaine semaine 
+Ça sera nos préparations pour faire sortir notre parcous dehors avec la fibre optique.
 
 ---
 ## Semaine 7
