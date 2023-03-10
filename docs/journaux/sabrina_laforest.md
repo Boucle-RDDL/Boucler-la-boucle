@@ -273,39 +273,45 @@ Changement d'échéancier; si je bloque sur quoi que ce soit on passe au prochai
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Finit l'animation Terre vs Fongique
+- Finit l'animation Vie Nocturne
+- Avancement de l'animation Fongvie 
+- Nouveau prototype pour les codes QR
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Image de realisation semaine 4](medias/cap.PNG)
+Vie Nocturne!!!! 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Pampam! J'ai finit deux animations cette semaine! Tres heureuse du resultat!!!! J'ai creer un nouveau repo et trouver un nouveau createur de code QR. Tout fonctionne tres bien pour l'instant! Suite a la recommandation de Guillaume, chaque animation est exportee en .mp4 et .mov pour que le navigateur de l'utilisateur choisisse le format qui fonctionne le mieux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il aurait ete ideal d'avoir finit toutes les animations, mais je suis assez avance (et mes defis de la semaine passee ont tous ete remplis(outre que j'ai change le pourcentage de finition de nocturne et fongvie))
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pour Fongvie je vais demander du feedback et des idees a nos professeurs car je n'arrive pas a trouver ce qu'il manque.
 
 ### Défis pour la prochaine semaine
+- Finir l'animation Fongvie 
+- Imprimer et laminer les codes QR (s'assurer qu'ils fonctionnent)
+- Trouver des anneaux de metal pour pouvoir suspendre les codes QR imprimer
 
 ---
 ## Semaine 7
