@@ -278,39 +278,43 @@ L'animation est déjà créé et le son sera fait pour lundi qui s'en vient, pas
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+-J'ai fait passer le contrôle du son et des lumières via un raspberry pi.
+-J'ai fait un deuxième chemin.
+-J'ai arrangé mon code pour qu'il soit compatible avec deux chemins.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![raspberry](medias/raspberry.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ L'ensemble des objectifs que je m'étais fixés ont été accomplis.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
+-Installer dans l'espace physique
+-Faire des tests à l'extérieur.
 
 ---
 ## Semaine 7
