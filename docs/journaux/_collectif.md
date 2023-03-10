@@ -25,7 +25,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 7
 Cette semaine fut stressante, puis soulageante.
-![Alexandre_Realisation_Sem6](medias/Alexandre_Resalisation_Sem6.png)
+![Alexandre_Realisation_Sem6](medias/Alexandre_Realisation_Sem6.png)
 
 Tout d'abord, il a fallu faire passer le contrôle des lumières et du son à un raspberry pi via sonobus et Qlc+.
 ![raspberry](medias/raspberry.png)
