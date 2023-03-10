@@ -36,10 +36,11 @@ Après, il a fallu refaire les animations pour qu'elle puissent jouer sur deux c
 
 Il fallait également retravailler le patcher max pour qu'il puissent lancer deux chemins.
 
-Enfin, les animation pour les codes Qr ont été terminer et un nouveau prototype pour l'hébergement est en route.
+Enfin, les animations pour les codes Qr ont été terminer et un nouveau prototype pour l'hébergement est en route.
 ![cap](medias/cap.PNG)
 
 Finalement, nous sommes aller dégager les chemins à l'extérieur.
+![neige](https://user-images.githubusercontent.com/90851590/224212011-d2d04946-9fc5-4c31-9f55-aae54bb2c6ba.jpg)
 
 Ce fut une belle semaine!
 ## Semaine 6
