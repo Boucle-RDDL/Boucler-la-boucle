@@ -28,7 +28,20 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 6
 
 ## Semaine 5
+Ce fut une semaine intense!
+![max_osc_patcher](medias/max_osc_patcher.PNG)
 
+Tout d'abord, il a fallu améliorer le patcher max pour contrôler le déclenchement des lumières et du son sans que ceux-ci coupent.
+
+Ensuite, il a fallu créer plusieurs animations pour madmapper pour que celles-ci suivent les déclenchements de max.
+![Alexandre_Realisation_Sem5](medias/Alexandre_Realisation_Sem5.PNG)
+
+Après, il fallait créer des sons pour les déclenchements des capteurs et améliorer un peu la bande sonore de fond.
+
+Finalement, une des animations pour les codes Qr est fini et une autre est commencer.
+![sem5](medias/sem5.PNG)
+
+Nous sommes content du travail qui a été fait cette semaine, on se rapproche de plus en plus de notre produit final!
 ## Semaine 4
 
 Ça aura été notre semaine avec le plus de progression visuel!
