@@ -27,7 +27,24 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 6
 
+Cette semaine fut très peu productive.
+![batterie](medias/batterie.png)
+
+Il faut savoir que nous avons manqué d'électricité pendant 2 jours dans nos studio ce qui a rallenti notre processus de progression.
+
+Tout d'abord, il a fallu améliorer une fois de plus le patcher max pour qu'il puisse envoyer le son via un "plugin" qui s'appel sonobus.
+![sonobus](meias/sonobus.PNG)
+
+Ensuite, il a fallu changer les animations pour madmaper pour que celles-ci soient mieux adaptées à notre projet.
+![Alexandre_Realisation_SemRatt](medias/Alexandre_Realisation_SemRatt.PNG)
+
+Finalement, une deuxième animation est fini et une autre est commencé.
+![sun](medias/sun.png)
+
+Il faudra travailler plus fort pour tout finir la semaine prochaine.
+
 ## Semaine 5
+
 Ce fut une semaine intense!
 ![max_osc_patcher](medias/max_osc_patcher.PNG)
 
@@ -42,6 +59,8 @@ Finalement, une des animations pour les codes Qr est fini et une autre est comme
 ![sem5](medias/sem5.PNG)
 
 Nous sommes content du travail qui a été fait cette semaine, on se rapproche de plus en plus de notre produit final!
+
+
 ## Semaine 4
 
 Ça aura été notre semaine avec le plus de progression visuel!
