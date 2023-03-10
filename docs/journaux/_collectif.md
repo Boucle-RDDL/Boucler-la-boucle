@@ -24,6 +24,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 8
 
 ## Semaine 7
+
 Cette semaine fut stressante, puis soulageante.
 ![Alexandre_Realisation_Sem6](medias/Alexandre_Realisation_Sem6.png)
 
@@ -43,6 +44,7 @@ Finalement, nous sommes aller dégager les chemins à l'extérieur.
 ![neige](https://user-images.githubusercontent.com/90851590/224212011-d2d04946-9fc5-4c31-9f55-aae54bb2c6ba.jpg)
 
 Ce fut une belle semaine!
+
 ## Semaine 6
 
 Cette semaine fut très peu productive.
