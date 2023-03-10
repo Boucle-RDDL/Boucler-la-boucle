@@ -24,7 +24,24 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 8
 
 ## Semaine 7
+Cette semaine fut stressante, puis soulageante.
+![Alexandre_Realisation_Sem6](medias/Alexandre_Resalisation_Sem6.png)
 
+Tout d'abord, il a fallu faire passer le contrôle des lumières et du son à un raspberry pi via sonobus et Qlc+.
+![raspberry](medias/raspberry.png)
+
+Ensuite, il a fallu règler la bande sonore de fond pour qu'elle joue correctement.
+
+Après, il a fallu refaire les animations pour qu'elle puissent jouer sur deux chemins indépendants.
+
+Il fallait également retravailler le patcher max pour qu'il puissent lancer deux chemins.
+
+Enfin, les animation pour les codes Qr ont été terminer et un nouveau prototype pour l'hébergement est en route.
+![cap](medias/cap.PNG)
+
+Finalement, nous sommes aller dégager les chemins à l'extérieur.
+
+Ce fut une belle semaine!
 ## Semaine 6
 
 Cette semaine fut très peu productive.
