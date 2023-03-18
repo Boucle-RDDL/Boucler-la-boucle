@@ -317,42 +317,44 @@ Pour Fongvie je vais demander du feedback et des idees a nos professeurs car je 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Finit l'animation Fongvie 
+- Refait le "branding" du projet :)
+- Imprimer et laminer les codes QR (s'assurer qu'ils fonctionnent)
+- Installation des codes QR dans les sentiers
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 4](medias/sem7.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Tout ce qui etait a faire a ete effectuer et completer! Je suis tres heureuse du resultat final!!!
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+n/a
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+n/a
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+n/a
 
 ### Défis pour la prochaine semaine
-
+- M'assurer que le tout fonctionne bien jusqu'a la presentation finale
+- Filmer la nouvelle video avec l'equipe qui sera presente lors du vernissage
 
 ## Semaine 8
-
-
-## Semaine 9
+Presentation finale/Vernissage des projets!
