@@ -334,6 +334,7 @@ Pour Fongvie je vais demander du feedback et des idees a nos professeurs car je 
 
 #### Décrivez pourquoi.
  Tout ce qui etait a faire a ete effectuer et completer! Je suis tres heureuse du resultat final!!!
+ J'ai aussi imprimer et laminer des extra de chaque code QR au cas ou certains seraient arrache/vole
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 n/a
@@ -354,6 +355,7 @@ n/a
 ### Défis pour la prochaine semaine
 - M'assurer que le tout fonctionne bien jusqu'a la presentation finale
 - Filmer la nouvelle video avec l'equipe qui sera presente lors du vernissage
+- Remplace les code QR si certain dissparaissent
 
 ## Semaine 8
 Presentation finale/Vernissage des projets!
