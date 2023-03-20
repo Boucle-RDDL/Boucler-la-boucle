@@ -328,7 +328,7 @@ Ne s'applique pas.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![lumière chemin extérieur](meidas/lumière_chemin_extérieur.jpg)
+![lumière chemin extérieur](medias/lumière_chemin_extérieur.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
