@@ -358,8 +358,8 @@ Ne s'applique pas.
 Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
--Arranger la disposition des câbles
--Arranger un peu l'esthétique
+- Arranger la disposition des câbles
+- Arranger un peu l'esthétique
 
 ---
 ## Semaine 8
