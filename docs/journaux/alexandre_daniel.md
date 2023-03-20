@@ -288,7 +288,8 @@ Il faudra prendre de l'initiative pour savoir si nous avons besoin de cette anim
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Nous avons finalement sortit notre installation à l'extérieur. 
+- Nous avons travaillé sur les branchements et la communication par fibre optique. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -297,31 +298,31 @@ Il faudra prendre de l'initiative pour savoir si nous avons besoin de cette anim
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+La majorité du travail est fait, il manque juste des composantes esthétiques. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous pensions faire du "sapinage" sur les ponts d'éclairage pour décorer. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a eu de nombreux bugs au niveau des lumières; des mauvaises adresses, certaines ont fait des siennes à cause de MadMapper, etc. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons consulter des spécialistes du logiciel et des lumières pour régler le problème. 
 
 ### Défis pour la prochaine semaine
-
+S'occuper du côté esthétique du parcours et faire le "cable management" à l'extérieur. 
 
 ## Semaine 8
 
