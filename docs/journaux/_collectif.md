@@ -22,7 +22,23 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 
 ## Semaine 8
+Cette semaine fut mouvementée!
+![boitier](medias/boitier.jpg)
 
+Tout d'abord, il a fallu arranger la boîte étanche en s'assurant que toutes les composantes fonctionnent et soient accessibles.
+![composantes](medias/composantes.jpg)
+![composantes 2](medias/composantes_2.jpg)
+
+Ensuite, il a fallu monter toute l'installation dans l'espace physique.
+![installation](medias/installation.jpg)
+
+Après il nous fallait faire tous les tests pour s'assurer que tout fonctionne correctement.
+![lumière chemin extérieur](medias/lumière_chemin_extérieur.jpg)
+
+Finalement, il nous restait qu'à intaller les codes Qr après les ponts d'éclairage.
+![sem7](medias/sem7.PNG)
+
+Nous sommes content du résultat et nous avons très hâte à la semaine prochaine!
 ## Semaine 7
 
 Cette semaine fut stressante, puis soulageante.
