@@ -95,7 +95,7 @@ Nous devons avoir quelque chose de concret à présenter pour être prêt pour l
 -Nous avons établi les rôles précis pour la "production multimédia". Je m'occupe de l'aspect visuel. Ce qui implique le fait que je dois réapprendre After Effects.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 2](medias/Alexandre_Realisation_Sem3.png)
+![Image de realisation semaine 3](medias/Alexandre_Realisation_Sem3.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -134,7 +134,7 @@ Commencer le prototypage avec le matériel.
 - J'ai commencé à maîtriser After Effects et MadMapper pour faire l'aspect visuel du prototype. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem4.png) 
+![Image de realisation semaine 4](medias/Alexandre_Realisation_Sem4.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -174,7 +174,7 @@ Faire les nombreuses étapes de l'éclairage sur MadMapper et synchroniser l'aud
 - J'ai conçu de nouvelles animations à être importées dans MadMapper.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem5.PNG) 
+![Image de realisation semaine 5](medias/Alexandre_Realisation_Sem5.PNG) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -213,7 +213,7 @@ Finir les préparatifs à l'installation extérieure et faire les animations dé
 - J'ai conçu de nouvelles animations à être importées dans MadMapper. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 1](medias/Alexandre_Realisation_SemRatt.PNG) 
+![Image de realisation semaine de rattrapage](medias/Alexandre_Realisation_SemRatt.PNG) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -253,7 +253,7 @@ Nous DEVONS absolument faire le test final et voir pour quel matériel nous auro
 - Nous avons configuré les chemins pour que leurs éclairages soient  indépendant.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Image de realisation semaine 1](medias/Alexandre_Realisation_Sem6.png) 
+![Image de realisation semaine 6](medias/Alexandre_Realisation_Sem6.png) 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -292,7 +292,7 @@ Il faudra prendre de l'initiative pour savoir si nous avons besoin de cette anim
 - Nous avons travaillé sur les branchements et la communication par fibre optique. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image de realisation semaine 7](medias/Alexandre_Realisation_Sem7.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
