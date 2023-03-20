@@ -37,6 +37,7 @@ Après il nous fallait faire tous les tests pour s'assurer que tout fonctionne c
 
 Finalement, il nous restait qu'à intaller les codes Qr après les ponts d'éclairage.
 ![sem7](medias/sem7.PNG)
+![sem7 new](medias/sem7_new.png)
 
 Nous sommes content du résultat et nous avons très hâte à la semaine prochaine!
 ## Semaine 7
