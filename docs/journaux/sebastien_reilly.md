@@ -320,38 +320,47 @@ Ne s'applique pas.
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
+- J'ai installé avec l'aide de mon équipe l'équipement dans l'espace physique.
+- J'ai ajusté le patcher max pour qu'il soit adapter à la disposition des capteurs de mouvement.
+- J'ai créé des câbles éthernet personalisés pour notre projet et son espace.
+- J'ai fini l'organisation de nos composantes dans notre boîte étanche.
+- J'ai placé avec l'aide de mon équipe la boîte à l'extérieur.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![lumière chemin extérieur](meidas/lumière_chemin_extérieur.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Toutes les tâches qui devaient être réalisées ont été faîtes.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Ne s'applique pas.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Ne s'applique pas.
 
 ### Défis pour la prochaine semaine
+
+-Arranger la disposition des câbles
+-Arranger un peu l'esthétique
 
 
 ## Semaine 8
