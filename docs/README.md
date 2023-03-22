@@ -1,4 +1,4 @@
-# Dossier de documentation du projet *Boucler la boucle*
+# Dossier de documentation du projet *Nexum*
 
 Dans ce dossier, on retrouve:
 
