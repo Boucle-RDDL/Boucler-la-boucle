@@ -106,9 +106,9 @@ Le son est un des éléments clés pour la réussite d'une bonne installation.
 Pour notre ambiance sonore, il nous fallait quelque chose d'harmonieux sans pour autant avoir des mélodies distinguables. Quelque chose de puissant qui permettait de créer l'ambiance et donner le ton des autres éléments multimédia de notre projet. Pour cela, nous nous somme inspirés de sonorités mystiques qui démontre une certaine fantaisie.
 
 - Voici notre [Inspirations](https://www.youtube.com/watch?v=3_cnug2Duac&list=PLWz6km8HlreqF3cTuoSM92nXmqZeTXy79). 
-- <a href="https://soundcloud.com/maxime-des-lauriers/test1" title="Test1" target="_blank" style="color: #cccccc; text-decoration: none;">Premier échantillon</a></div>
+- [Premier échantillon]("https://soundcloud.com/maxime-des-lauriers)
 
-Pour compléter notre échantillon de départ, il serait pertinent d'y ajouter quelques éléments tonaux qui permettrait de rendre le son plus vivant. Également, il faudra des sons ponctuels qui seront déclanchés à chaque interraction avec une boule lumineuse (capteur). 
+Pour compléter notre échantillon de départ, il serait pertinent d'y ajouter quelques éléments tonaux qui permettrait de rendre le son plus vivant. Également, il faudra des sons ponctuels qui seront déclanchés à chaque interraction avec une boule lumineuse (capteur)
 
 La cerise sur le gateau, notre piste sonore est dans la même gamme que l'équipe de "Entre Fungus", ce qui fait en sorte qu'il n'y aure pas de dissonance lors du passage entre les deux installations.
 
