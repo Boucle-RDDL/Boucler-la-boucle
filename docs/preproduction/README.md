@@ -122,7 +122,7 @@ La cerise sur le gateau, notre piste sonore est dans la même gamme que l'équip
 
 ### Schéma de branchement
 
-![schéma de branchement](medias/branchement_3.png)
+![schéma de branchement](medias/branchement_final.png)
 
 ## Matériel de scénographie requis
 
