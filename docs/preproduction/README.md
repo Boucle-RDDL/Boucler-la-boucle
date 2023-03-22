@@ -38,7 +38,7 @@
 Cet expérience a pour but d'immerger le visiteur dans une ambiance lumineuse et sonore aux atraits enchanteur et de faire ressentir l'émerveilement de cette dernière par l'intéractivité.
 
 ## Synopsis
-Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux-ci se rendent compte que le sentier interagit à leurs passages; les lumières commencent à scintiller et les sons s'intensifient pour donner un sentiment serein. Dans le chemin lumineux se trouve des codes QR qui, une fois scannés, présentent une animation qui montrant la vie dans ce marais.
+Les visiteurs empruntent ce sentier illuminé. Lors de leurs déplacements, ceux-ci se rendent compte que le sentier interagit à leurs passages; les lumières commencent à se déplacer et les sons se déclenchent pour donner un sentiment serein. Dans le chemin lumineux se trouve des codes QR qui, une fois scannés, présentent une animation.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
