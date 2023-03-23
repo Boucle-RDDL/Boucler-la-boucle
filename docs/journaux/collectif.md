@@ -11,8 +11,8 @@ Ensuite, il nous fallait règler nos problèmes de câbles.
 ![fils](medias/fils.png)
 
 Après, il a fallu penser à l'esthétisme du porojet et donc nous avons pris la décision d'habiller nos ponts d'éclairage avec du sapinage.
-![sapinage](medias/sapinage)
-![sapinage pont](sapinage_pont.png)
+![sapinage](medias/sapinage.png)
+![sapinage pont](medias/sapinage_pont.png)
 
 Finalement, il nous restait juste à préparer une vidéo de présentation pour notre projet.
 ![montage](medias/montage.png)
