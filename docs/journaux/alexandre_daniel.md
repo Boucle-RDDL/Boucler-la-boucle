@@ -288,7 +288,7 @@ Il faudra prendre de l'initiative pour savoir si nous avons besoin de cette anim
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-- Nous avons finalement sortit notre installation à l'extérieur. 
+- Nous avons finalement sorti notre installation à l'entrée 1. 
 - Nous avons travaillé sur les branchements et la communication par fibre optique. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -316,7 +316,7 @@ Nous pensions faire du "sapinage" sur les ponts d'éclairage pour décorer.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Il y a eu de nombreux bugs au niveau des lumières; des mauvaises adresses, certaines ont fait des siennes à cause de MadMapper, etc. 
+Il y a eu de nombreux bogues au niveau des lumières; des mauvaises adresses, certaines ont fait des siennes à cause de MadMapper, etc. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nous allons consulter des spécialistes du logiciel et des lumières pour régler le problème. 
@@ -325,6 +325,42 @@ Nous allons consulter des spécialistes du logiciel et des lumières pour régle
 S'occuper du côté esthétique du parcours et faire le "cable management" à l'extérieur. 
 
 ## Semaine 8
+### Résumé des réalisations effectuées
+- Mon équipe et moi avons finalement présenté nos projets au public.
+- Nous avons finalisé la vidéo de présentation.
+
+### Image d'une réalisation dont tu es la ou le plus fier 
+![Image de realisation semaine 2](medias/lumière_chemin_nuit.png)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [X] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi. 
+On est très fier de notre projet ainsi que de l'avis du public que nous avons reçu. 
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [X] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+Il n'y a eu que de légers retards concernant la réalisation de la vidéo de présentation.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+On a dû augmenter la vitesse pour monter la vidéo.
+
+### Défis pour la prochaine semaine
+Euh... Réussir mon projet pour mon autre cours? 
 
 
 ## Semaine 9
