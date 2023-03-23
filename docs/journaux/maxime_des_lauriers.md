@@ -286,7 +286,7 @@ Rebranchement des fils pour un meilleur cable management, ajout de sonobus pour 
 Montage complet de l'installation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![installation Fini](../journaux/medias/IMG_2265.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
