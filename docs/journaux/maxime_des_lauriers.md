@@ -283,7 +283,7 @@ Rebranchement des fils pour un meilleur cable management, ajout de sonobus pour 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+Montage complet de l'installation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -291,20 +291,20 @@ Rebranchement des fils pour un meilleur cable management, ajout de sonobus pour 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ L'installation est montée au complet, la plus grosse partie du travail est terminée.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -316,7 +316,7 @@ Rebranchement des fils pour un meilleur cable management, ajout de sonobus pour 
 
 
 ### Défis pour la prochaine semaine
-
+Tournage et montage de la vidéo promotionnelle.
 
 ## Semaine 8
 
